@@ -32,7 +32,7 @@ A Django-based web application developed for the **PBL3 (Project-Based Learning 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/urban-parking-tracker.git
+   git clone https://github.com/MelancholicMelon/pTracker.git
    cd urban-parking-tracker
  2. Set up virtual environment
 
