@@ -1,0 +1,125 @@
+<!-- parking_app/templates/map_page.html -->
+{% extends 'base.html' %}
+{% load static %}
+{% block title %}Map{% endblock %}
+{% block content %}
+<style>
+    body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    font-family: Georgia, Serif;
+    background-color: #f5f5f5;
+}
+
+#map-container {
+    display: flex;
+    height: 100vh;
+}
+
+#map-wrapper {
+    flex: 1;
+    position: relative;
+}
+
+#map-search {
+    position: absolute;
+    top: 10px;
+    left: 35%;
+    transform: translateX(-50%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 10px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+#search-input {
+    width: 200px;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-left: 15px;
+}
+
+#search-btn, #clear-btn, #locate-btn, #navigate-btn, #find-parking-btn {
+    background-color: white;
+    border: none;
+    font-size: 12px;
+    cursor: pointer;
+    padding: 5px;
+    border-radius: 5px;
+    margin-left: 10px;
+}
+
+#travel-mode-select, #search-radius {
+        margin-left: 10px;
+    }
+
+#map {
+    height: 100%;
+}
+
+/* Remove the redundant map div */
+</style>
+<div id="map-container">
+    <div id="map-wrapper">
+        <div id="map"></div>
+        <div id="map-search">
+            <button id="locate-btn">Find My Location</button>
+            <button id="navigate-btn">Navigate to nearest</button>
+            <button id="find-parking-btn">Find Nearby Parking Lots</button>
+            <select id="travel-mode-select">
+                <option value="driving-car">Driving Car</option>
+                <option value="cycling-regular">Cycling Regular</option>
+                <option value="cycling-road">Cycling Road</option>
+                <option value="cycling-mountain">Cycling Mountain</option>
+                <option value="cycling-electric">Cycling Electric</option>
+                <option value="foot-walking">Foot Walking</option>
+                <option value="foot-hiking">Foot Hiking</option>
+                <option value="wheelchair">Wheelchair</option>
+            </select>
+            <input type="number" id="search-radius" placeholder="Default Radius: 3000m" min="0" style="width: 250px; margin-right: 10px;">
+        </div>
+    </div>
+</div>
+<script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+<script src="{% static 'js/map.js' %}"></script>
+<script src="{% static 'js/locate.js' %}"></script>
+<script src="{% static 'js/directions.js' %}"></script>
+<script src="{% static 'js/parking_lots.js' %}"></script>
+<script src="{% static 'js/upload_parking_lot.js' %}"></script>
+<script>
+    document.getElementById('locate-btn').addEventListener('click', locateUser);
+    document.getElementById('navigate-btn').addEventListener('click', function() {
+        console.log("Triggered")
+        const selectedMode = document.getElementById('travel-mode-select').value;
+        navigateUser(selectedMode,true);
+
+
+    });
+    document.getElementById('find-parking-btn').addEventListener('click', function() {
+        const radiusInput = document.getElementById('search-radius').value;
+        const radius = radiusInput ? parseFloat(radiusInput, 10) : 3000;
+        findNearbyParkingLots(radius);
+    });
+
+    var map = L.map('map').setView([34.6937, 135.5023], 13);
+
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        maxZoom: 19
+    }).addTo(map);
+
+    map.on('dblclick', function(e) {
+        var destLat = e.latlng.lat;
+        var destLon = e.latlng.lng;
+        setDestination(destLat, destLon);
+    });
+
+    map.doubleClickZoom.disable();
+</script>
+{% endblock %}

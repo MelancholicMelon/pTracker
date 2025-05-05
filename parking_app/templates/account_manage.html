@@ -1,0 +1,82 @@
+{% extends 'base.html' %}
+{% block title %}Account Management{% endblock %}
+{% block content %}
+
+<style>
+    body, html {
+        background-image: url("https://i.im.ge/2024/07/11/V6yoic.watercolor-light-steel-blue-wallpaper-image.jpeg");
+        background-size: cover;
+        background-position: center;
+        margin: 0;
+        padding: 0;
+        height: 100%;
+        font-family: Georgia, Serif;
+        background-color: #d4d4d4;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    header {
+        width: 100%;
+        position: absolute;
+        top: 0;
+        z-index: 1;
+    }
+    .container {
+        background-color: rgba(255, 255, 255, 0.8);
+        border: 1px solid #ccc;
+        padding: 25px;
+        box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+        width: 350px;
+        text-align: center;
+        margin-top: 100px;
+        border-radius: 10px;
+        backdrop-filter: blur(10px);
+    }
+    .container h1 {
+        font-weight: bold;
+        margin-bottom: 20px;
+        font-size: 28px;
+        color: #333;
+    }
+    .container ul {
+        list-style-type: none;
+        padding: 0;
+    }
+    .container li {
+        margin: 10px 0;
+        font-size: 18px;
+    }
+    .username-box, .userid-box, .phonenumber-box, .points-box {
+        padding: 10px;
+        border-radius: 5px;
+        font-size: 20px;
+        font-weight: bold;
+        color: white;
+    }
+    .username-box {
+        background-color: #4CAF50;
+    }
+    .userid-box {
+        background-color: #2196F3;
+    }
+    .phonenumber-box {
+        background-color: #FFC107;
+    }
+    .points-box {
+        background-color: #FF5722;
+    }
+</style>
+
+<div class="container">
+    <h1>Account Management</h1>
+    <ul>
+        <li>Username: <div class="username-box">{{current_user.username}}</div></li>
+        <li>User ID: <div class="userid-box">{{current_user.user_id}}</div></li>
+        <li>Phone Number: <div class="phonenumber-box">{{current_user.phonenumber}}</div></li>
+        <li>Points: <div class="points-box">{{current_user.points}}</div></li>
+    </ul>
+
+    <a class = "logout" href="{% url 'logout' %}"><button class="btn btn-secondary">Delete Account</button></a>
+</div>
+{% endblock %}

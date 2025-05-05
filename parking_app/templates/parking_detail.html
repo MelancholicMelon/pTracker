@@ -1,0 +1,27 @@
+{% extends 'base.html' %}
+{% block title %}{{ parking_lot.name }}{% endblock %}
+{% block content %}
+<h1>{{ parking_lot.name }}</h1>
+<p>{{ parking_lot.description }}</p>
+<div id="map-container">
+    <button id="locate-btn">Find My Location</button>
+    <button id="navigate-btn">Navigate</button>
+    <div id="map" style="height: 400px;"></div>
+</div>
+<script src="{% static 'js/map.js' %}"></script>
+<script src="{% static 'js/locate.js' %}"></script>
+<script src="{% static 'js/directions.js' %}"></script>
+<script src="{% static 'js/parking_lots.js' %}"></script>
+<script>
+    document.getElementById('locate-btn').addEventListener('click', locateUser);
+    document.getElementById('navigate-btn').addEventListener('click', navigateUser);
+
+    map.on('dblclick', function(e) {
+        var destLat = e.latlng.lat;
+        var destLon = e.latlng.lng;
+        setDestination(destLat, destLon);
+    });
+
+    map.doubleClickZoom.disable();
+</script>
+{% endblock %}

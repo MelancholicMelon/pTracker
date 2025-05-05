@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Test Page</title>
+</head>
+<body>
+    <h1>Test Page</h1>
+    <ul>
+        <li><a href="{% url 'test_leave_comment' user_id=1 parking_id=1 %}">Test Leave Comment</a></li>
+        <li><a href="{% url 'test_report_info' user_id=1 parking_id=1 %}">Test Report Info</a></li>
+        <li><a href="{% url 'test_upload_parking' user_id=1 %}">Test Upload Parking</a></li>
+        <li><a href="{% url 'test_edit_parking' user_id=1 parking_id=1 %}">Test Edit Parking</a></li>
+        <li><a href="{% url 'test_leave_review' user_id=1 parking_id=1 %}">Test Leave Review</a></li>
+    </ul>
+</body>
+</html>

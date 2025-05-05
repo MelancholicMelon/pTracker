@@ -1,0 +1,89 @@
+{% extends 'base.html' %}
+{% block title %}Survey{% endblock %}
+{% block content %}
+
+    <div class="container mt-5">
+        <h1 class="text-center mb-4">Survey Form</h1>
+        <form method="post" enctype="multipart/form-data">
+            {% csrf_token %}
+
+            <input type="hidden" name="current_user" value="{{ current_user.username }}">
+            <div class="mb-3">
+                <h3>Your Current Location</h3>
+                <label class="form-label">Latitude</label>
+                <input type="text" id="latitude" name="latitude" class="form-control"><br>
+                <label class="form-label">Longitude</label>
+                <input type="text" id="longitude" name="longitude" class="form-control"><br>
+                <button type="button" class="btn btn-primary" onclick="getLocation()">Get Location</button>
+            </div>
+
+            <div class="mb-3">
+                <h3>Q1. Name</h3>
+                <input type="text" id="name" name="name" class="form-control" required>
+            </div>
+
+            <div class="mb-3">
+                <h3>Q2. Vehicle Type</h3>
+                <div class="form-check">
+                    <input type="checkbox" name="cars" value="1" class="form-check-input">
+                    <label for="cars" class="form-check-label">Cars</label>
+                </div>
+                <div class="form-check">
+                    <input type="checkbox" name="bike" value="1" class="form-check-input">
+                    <label for="bike" class="form-check-label">Bicycles</label>
+                </div>
+                <div class="form-check">
+                    <input type="checkbox" name="motor" value="1" class="form-check-input">
+                    <label for="motor" class="form-check-label">Motorcycles</label>
+                </div>
+                <div class="form-check">
+                    <input type="checkbox" name="gentsuki" value="1" class="form-check-input">
+                    <label for="gentsuki" class="form-check-label">Gentsuki</label>
+                </div>
+            </div>
+
+            <div class="mb-3">
+                <h3>Q3. Price</h3>
+                <input type="text" id="price" name="price" class="form-control" required>
+            </div>
+
+            <div class="mb-3">
+                <h3>Q4. Unit of Time (Minutes)</h3>
+                <input type="text" id="unit_of_time" name="unit_of_time" class="form-control" required>
+            </div>
+
+            <div class="mb-3">
+                <h3>Q5. Review</h3>
+                <textarea name="review" id="review" class="form-control"></textarea>
+            </div>
+
+            <div class="mb-3">
+                <h3>Q6. Current Free Spot</h3>
+                <input type="text" id="current_free_spot" name="current_free_spot" class="form-control" required>
+            </div>
+
+            <div class="mb-3">
+                <h3>Q7. Images</h3>
+                <input type="file" name="image" class="form-control">
+            </div>
+
+            <button type="submit" class="btn btn-success">Submit</button>
+        </form>
+    </div>
+
+    <script>
+        function getLocation() {
+            if (navigator.geolocation) {
+                navigator.geolocation.getCurrentPosition(showPosition);
+            } else {
+                alert("Geolocation is not supported by this browser.");
+            }
+        }
+
+        function showPosition(position) {
+            document.getElementById('latitude').value = position.coords.latitude;
+            document.getElementById('longitude').value = position.coords.longitude;
+        }
+    </script>
+
+{% endblock %}

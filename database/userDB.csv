@@ -1,0 +1,11 @@
+UserType Flag,ID,Username,Password,Phone Number,Points
+1,1,Wonil,777,01040256878,130
+1,2,Tintin,123,123,0
+1,3,tam,abcd1234,012345678,0
+1,4,Two2,123,111,0
+1,5,tam12345,12345,012345677,0
+1,6,admin,admin,12345,0
+1,7,user1,abcd1234,01234567899,0
+1,8,test,abcd1234,0000,0
+1,9,testUser1,--lp_model_path,123456,0
+1,10,user0,--lp_model_path,01234567890,15

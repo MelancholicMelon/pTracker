@@ -1,0 +1,149 @@
+<!-- parking_app/templates/index.html -->
+{% extends 'base.html' %}
+
+{% block title %}Parking Lots{% endblock %}
+
+{% block content %}
+<style>
+    
+    body, html {
+        background-image: url("./static/logo.png");
+        background-size: contain;
+        background-repeat: no-repeat;
+        background-position: center;
+        margin: 0;
+        padding: 0;
+        height: 100%;
+        font-family: Georgia, Serif;
+        background-color: #f5f5f5;
+        display: relative;
+        justify-content: center;
+        align-items: center;
+    }
+    header {
+        width: 100%;
+        position: absolute;
+        top: 0;
+        z-index: 1;
+    }
+    .container {
+        background-color: white;
+        border: 1px solid #ccc;
+        padding: 35px;
+        box-shadow: 0 0 10px rgba(1, 0, 0, 0.1);
+        width: 350px;
+        text-align: center;
+        margin-top: 100px; /* Add margin to push the form down below the header */
+        z-index: 2;
+        position: relative;
+        
+    }
+    .container h1 {
+        margin-top: 20px;
+        margin-bottom: 20px;
+        font-weight: bold;
+        font-family: Georgia, Serif;
+        font-size: 35px;
+    }
+    .container h2 {
+        margin-top: 20px;
+        margin-bottom: 20px;
+        font-weight: bold;
+        font-family: Georgia, Serif;
+        font-size: 20px;
+    }
+    .container h3 {
+        margin-top: 20px;
+        margin-bottom: 20px;
+        /* font-weight: bold; */
+        font-family: Georgia, Serif;
+        font-size: 20px;
+    }
+    .container input[type="text"], 
+    .container input[type="password"] {
+        width: 100%;
+        padding: 10px;
+        margin: 10px 0;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+    }
+    .container button {
+        width: 100%;
+        padding: 10px;
+        background-color: #093;
+        color: white;
+        border: none;
+        border-radius: 5px;
+        font-size: 16px;
+        cursor: pointer;
+    }
+    .container button:hover {
+        background-color: #555;
+    }
+    .container .guest-button {
+        margin-top: 10px; /* Add space between buttons */
+        background-color: rgb(129, 132, 130);
+    }
+    .container .map-button {
+        margin-top: 10px; /* Add space between buttons */
+        background-color: rgb(4, 57, 92);
+    }
+    .container a {
+        color: #007bff;
+        text-decoration: none;
+    }
+    .container a:hover {
+        text-decoration: underline;
+    }
+    .links {
+        margin-top: 10px;
+        text-align: left;
+    }
+    .points-box{
+        padding: 10px;
+        border-radius: 5px;
+        font-size: 20px;
+        width: 50%;
+        font-weight: bold;
+        color: white;
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+        margin: 0 auto;
+    }
+    .points-box {
+        background-color: #aaadaa;
+    }
+
+</style>
+
+
+{% if not current_user %}
+<div class="container">
+    <img src="https://i.im.ge/2024/07/11/V6PL8K.generated-file-name.png" alt="app icon" width="100px" height="100px">
+    <h1>Welcome!</h1>
+    <form method="post">
+        {% csrf_token %}
+        <input type="text" name="username" placeholder="Enter Username">
+        <br>
+        <input type="password" name="password" placeholder="Enter Password">
+        <br>
+        <div class="links">
+            <p>Don't Have Account? <a href="{% url 'register' %}">Create One!</a></p>
+            <p><a href="{% url 'forgot_password' %}">Forgot Password?</a></p>
+        </div>
+        <button type="submit" name="login" value="registered_user_login">Login</button><br>
+        <button type="submit" name="login" value="guest_login" class="guest-button">Login as Guest</button>
+    </form>
+</div>
+{% else %}
+<div class="container">
+    <img src="https://i.im.ge/2024/07/11/V6PL8K.generated-file-name.png" alt="app icon" width="100px" height="100px">
+        <h2>Welcome, {{current_user.username}}!</h2>
+{% if current_user.user_flag == '1' %}
+    <h3>You have <div class="points-box">{{current_user.points}}</div> points!</h3>
+{% endif %}
+<a href="{% url 'map_page' %}"><button class="map-button">Go to Map</button></a>
+</div>
+{% endif %}
+{% endblock %}

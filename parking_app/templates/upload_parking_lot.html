@@ -1,0 +1,7 @@
+<!-- parking_app/templates/parking_app/upload_parking_lot.html -->
+
+<form method="post" enctype="multipart/form-data">
+    {% csrf_token %}
+    {{ form.as_p }}
+    <button type="submit">Upload</button>
+</form>

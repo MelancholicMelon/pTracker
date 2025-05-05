@@ -1,0 +1,903 @@
+ID,Name,Latitude,Longitude,Car,Bicycle,Motorcycle,Gentsuki,Price,Unit_of_Time,Review,Current_Free_Spot,Uploader,Timestamp,Image Path
+1,n/a,34.5935683,135.5051573,None,None,None,None,None,None,None,2,None,None,None
+2,タイムズ大物駅前,34.7175167,135.4254737,None,None,None,None,None,None,None,1,None,None,None
+3,n/a,34.6810389,135.4833942,None,None,None,None,None,None,None,7,None,None,None
+4,北堀江駐車場,34.6753465,135.4823618,None,None,None,None,None,None,None,1,None,None,None
+5,芝野,34.6745744,135.4819648,None,None,None,None,None,None,None,10,None,None,None
+6,モータープールとよえい,34.6740999,135.4819664,None,None,None,None,None,None,None,10,None,None,None
+7,ヤマダモータープール,34.6704557,135.4806153,None,None,None,None,None,None,None,0,None,None,None
+8,パークステーション24南堀江,34.6702266,135.4872643,None,None,None,None,None,None,None,0,None,None,None
+9,P.ZONE南堀江3丁目,34.6701987,135.4877568,None,None,None,None,None,None,None,9,None,None,None
+10,タイムズ南堀江公園南第2,34.6698173,135.4918462,None,None,None,None,None,None,None,8,None,None,None
+11,大野コインパーキング住吉橋,34.6696253,135.4936851,None,None,None,None,None,None,None,5,None,None,None
+12,光洋モータープール,34.6696074,135.4941571,None,None,None,None,None,None,None,3,None,None,None
+13,タイムズ湊町第3駐車場,34.6685782,135.4969210,None,None,None,None,None,None,None,9,None,None,None
+14,OPL日本橋パーキング,34.6585844,135.5075156,None,None,None,None,None,None,None,2,None,None,None
+15,アパマンショップパーキング真法院町第1,34.6581157,135.5202411,None,None,None,None,None,None,None,0,None,None,None
+16,Park in Park天王寺区役所前,34.6583861,135.5185469,None,None,None,None,None,None,None,1,None,None,None
+17,タイムズ下寺第2,34.6572883,135.5093161,None,None,None,None,None,None,None,9,None,None,None
+18,システムパーク下寺,34.6574353,135.5092630,None,None,None,None,None,None,None,4,None,None,None
+19,三井のリパーク龍造寺町,34.6770342,135.5183908,None,None,None,None,None,None,None,9,None,None,None
+20,大治谷五モータープール,34.6771717,135.5175089,None,None,None,None,None,None,None,8,None,None,None
+21,タイムズ安堂寺町第3,34.6767161,135.5131096,None,None,None,None,None,None,None,6,None,None,None
+22,エコロパーク安堂寺町第1,34.6760872,135.5124738,None,None,None,None,None,None,None,10,None,None,None
+23,タイムズ松屋町,34.6743546,135.5123792,None,None,None,None,None,None,None,2,None,None,None
+24,Hilltop Park松屋町,34.6741910,135.5119181,None,None,None,None,None,None,None,4,None,None,None
+25,タイムズ,34.6736906,135.4865449,None,None,None,None,None,None,None,2,None,None,None
+26,パークNET四天王寺駐車場,34.6566208,135.5140985,None,None,None,None,None,None,None,10,None,None,None
+27,荻田モータープール,34.6569875,135.5173768,None,None,None,None,None,None,None,4,None,None,None
+28,パ－クステーション上本町第2,34.6569758,135.5170976,None,None,None,None,None,None,None,5,None,None,None
+29,タイムズ四天王寺1丁目,34.6570126,135.5169518,None,None,None,None,None,None,None,0,None,None,None
+30,タイムズ四天王寺1丁目第2,34.6572439,135.5143974,None,None,None,None,None,None,None,5,None,None,None
+31,大江東ガレージ,34.6559404,135.5144530,None,None,None,None,None,None,None,10,None,None,None
+32,東邦パーキング,34.6545434,135.5129670,None,None,None,None,None,None,None,10,None,None,None
+33,和宏モータープール,34.6558878,135.5097614,None,None,None,None,None,None,None,10,None,None,None
+34,ふくろうPARKING下寺3丁目,34.6567078,135.5102380,None,None,None,None,None,None,None,6,None,None,None
+35,MAX PARKING24 緑橋駐車場,34.6807982,135.5420135,None,None,None,None,None,None,None,5,None,None,None
+36,トラストパーク立売堀,34.6797757,135.4965115,None,None,None,None,None,None,None,7,None,None,None
+37,タイムパーク玉津1丁目,34.6738121,135.5387983,None,None,None,None,None,None,None,2,None,None,None
+38,セントラルパーキング,34.6713223,135.5393248,None,None,None,None,None,None,None,6,None,None,None
+39,タイムズ大今里南第5,34.6684867,135.5441095,None,None,None,None,None,None,None,0,None,None,None
+40,新町橋モータープール,34.6777486,135.4956634,None,None,None,None,None,None,None,1,None,None,None
+41,大阪市立西横堀駐車場,34.6774752,135.4978002,None,None,None,None,None,None,None,6,None,None,None
+42,スパーク高津2,34.6645039,135.5104909,None,None,None,None,None,None,None,5,None,None,None
+43,島之内モータープール,34.6641260,135.5104739,None,None,None,None,None,None,None,3,None,None,None
+44,n/a,34.6355924,135.4023097,None,None,None,None,None,None,None,8,None,None,None
+45,京都駅ビル東第１駐車場 (Kyoto Station Building East First Parkinglot),34.9859342,135.7608735,None,None,None,None,None,None,None,4,None,None,None
+46,n/a,34.9859706,135.7567672,None,None,None,None,None,None,None,4,None,None,None
+47,京田辺PA ( Kyotanabe Parking Area),34.8331659,135.7237412,None,None,None,None,None,None,None,0,None,None,None
+48,n/a,34.6981487,135.5055351,None,None,None,None,None,None,None,4,None,None,None
+49,平城宮跡駐車場（奈良西）,34.6698848,135.7544690,None,None,None,None,None,None,None,2,None,None,None
+50,n/a,34.7092214,135.7422401,None,None,None,None,None,None,None,9,None,None,None
+51,n/a,34.6486319,135.7408936,None,None,None,None,None,None,None,5,None,None,None
+52,n/a,34.6799149,135.7749879,None,None,None,None,None,None,None,4,None,None,None
+53,n/a,34.8182389,135.7100098,None,None,None,None,None,None,None,8,None,None,None
+54,n/a,34.7197289,135.4378841,None,None,None,None,None,None,None,9,None,None,None
+55,24時間パーキング,34.7299603,135.4351509,None,None,None,None,None,None,None,0,None,None,None
+56,24時間パーキング,34.7304450,135.4350050,None,None,None,None,None,None,None,0,None,None,None
+57,システムパークM尼崎杭瀬,34.7222920,135.4398958,None,None,None,None,None,None,None,7,None,None,None
+58,n/a,34.7601819,135.6496193,None,None,None,None,None,None,None,6,None,None,None
+59,n/a,35.0429572,135.6708443,None,None,None,None,None,None,None,8,None,None,None
+60,n/a,35.0319761,135.6543178,None,None,None,None,None,None,None,0,None,None,None
+61,アイボリー画材 お客様駐車場,34.6876503,135.8219589,None,None,None,None,None,None,None,1,None,None,None
+62,n/a,34.8334104,135.4896724,None,None,None,None,None,None,None,7,None,None,None
+63,東モータープール,34.7487847,135.6042788,None,None,None,None,None,None,None,1,None,None,None
+64,船橋 正起 モータープール,34.6867412,135.8217124,None,None,None,None,None,None,None,2,None,None,None
+65,藤井質店 駐車場,34.6866511,135.8220960,None,None,None,None,None,None,None,9,None,None,None
+66,n/a,34.6877256,135.8217581,None,None,None,None,None,None,None,10,None,None,None
+67,山本 モータープール,34.6876137,135.8236160,None,None,None,None,None,None,None,2,None,None,None
+68,n/a,34.6963605,135.7869522,None,None,None,None,None,None,None,5,None,None,None
+69,n/a,34.6915479,135.7830010,None,None,None,None,None,None,None,9,None,None,None
+70,n/a,34.6956901,135.7854609,None,None,None,None,None,None,None,4,None,None,None
+71,n/a,34.6799501,135.7736250,None,None,None,None,None,None,None,0,None,None,None
+72,n/a,34.6790899,135.7753201,None,None,None,None,None,None,None,5,None,None,None
+73,Hokke-ji,34.6916803,135.8050004,None,None,None,None,None,None,None,5,None,None,None
+74,n/a,34.6676900,135.8121549,None,None,None,None,None,None,None,10,None,None,None
+75,Car Parking,34.6974653,135.7292279,None,None,None,None,None,None,None,9,None,None,None
+76,n/a,34.6843292,135.7698518,None,None,None,None,None,None,None,3,None,None,None
+77,n/a,34.8042551,135.5748694,None,None,None,None,None,None,None,10,None,None,None
+78,n/a,34.6861554,135.5389855,None,None,None,None,None,None,None,3,None,None,None
+79,n/a,34.9353931,135.7618608,None,None,None,None,None,None,None,6,None,None,None
+80,中津老人憩の家,34.7105850,135.4925500,None,None,None,None,None,None,None,7,None,None,None
+81,市役所前公共駐車場,34.7364029,135.3434354,None,None,None,None,None,None,None,3,None,None,None
+82,OnePark,34.6812241,135.4669984,None,None,None,None,None,None,None,1,None,None,None
+83,n/a,34.7851974,135.6751564,None,None,None,None,None,None,None,10,None,None,None
+84,n/a,34.8326952,135.4698214,None,None,None,None,None,None,None,9,None,None,None
+85,n/a,34.7642855,135.6556764,None,None,None,None,None,None,None,5,None,None,None
+86,n/a,34.7566480,135.6549683,None,None,None,None,None,None,None,10,None,None,None
+87,n/a,34.7566789,135.6556281,None,None,None,None,None,None,None,1,None,None,None
+88,n/a,34.7885155,135.6765708,None,None,None,None,None,None,None,3,None,None,None
+89,n/a,34.7880815,135.6778609,None,None,None,None,None,None,None,3,None,None,None
+90,n/a,34.7893151,135.6730893,None,None,None,None,None,None,None,10,None,None,None
+91,n/a,34.8404097,135.7160851,None,None,None,None,None,None,None,2,None,None,None
+92,n/a,34.8410906,135.7180833,None,None,None,None,None,None,None,3,None,None,None
+93,n/a,34.8190425,135.6888744,None,None,None,None,None,None,None,10,None,None,None
+94,n/a,34.8132953,135.4591732,None,None,None,None,None,None,None,8,None,None,None
+95,n/a,34.8106541,135.4525778,None,None,None,None,None,None,None,5,None,None,None
+96,n/a,34.8314539,135.4696504,None,None,None,None,None,None,None,1,None,None,None
+97,n/a,34.8273024,135.4798077,None,None,None,None,None,None,None,8,None,None,None
+98,n/a,34.8276409,135.4795003,None,None,None,None,None,None,None,10,None,None,None
+99,n/a,34.8239363,135.4570015,None,None,None,None,None,None,None,5,None,None,None
+100,n/a,34.7258383,135.6294245,None,None,None,None,None,None,None,2,None,None,None
+101,n/a,34.7293609,135.6302238,None,None,None,None,None,None,None,10,None,None,None
+102,テクニカルパーク浮田,34.7104980,135.5089300,None,None,None,None,None,None,None,6,None,None,None
+103,n/a,34.6837038,135.5086831,None,None,None,None,None,None,None,5,None,None,None
+104,n/a,34.7112718,135.5086936,None,None,None,None,None,None,None,0,None,None,None
+105,n/a,34.7113581,135.5072924,None,None,None,None,None,None,None,8,None,None,None
+106,n/a,34.7097682,135.4992201,None,None,None,None,None,None,None,6,None,None,None
+107,n/a,34.7092078,135.5079780,None,None,None,None,None,None,None,8,None,None,None
+108,n/a,34.7098980,135.5079494,None,None,None,None,None,None,None,6,None,None,None
+109,n/a,34.7146828,135.5100981,None,None,None,None,None,None,None,7,None,None,None
+110,n/a,34.7121130,135.5053440,None,None,None,None,None,None,None,1,None,None,None
+111,n/a,34.7124173,135.5053631,None,None,None,None,None,None,None,8,None,None,None
+112,n/a,34.8246398,135.4855999,None,None,None,None,None,None,None,7,None,None,None
+113,n/a,34.8251689,135.4852472,None,None,None,None,None,None,None,4,None,None,None
+114,n/a,34.8122648,135.4949613,None,None,None,None,None,None,None,4,None,None,None
+115,n/a,34.9333849,135.7985108,None,None,None,None,None,None,None,3,None,None,None
+116,n/a,34.8358003,135.5260266,None,None,None,None,None,None,None,2,None,None,None
+117,n/a,34.6803771,135.8207135,None,None,None,None,None,None,None,5,None,None,None
+118,n/a,34.8105669,135.4793027,None,None,None,None,None,None,None,0,None,None,None
+119,生駒駅南自動車駐車場,34.6911438,135.6980613,None,None,None,None,None,None,None,1,None,None,None
+120,n/a,34.6793508,135.7066750,None,None,None,None,None,None,None,6,None,None,None
+121,n/a,34.8114286,135.4702561,None,None,None,None,None,None,None,5,None,None,None
+122,n/a,34.6921941,135.7057134,None,None,None,None,None,None,None,3,None,None,None
+123,n/a,34.6918589,135.7054693,None,None,None,None,None,None,None,2,None,None,None
+124,p,34.5704900,135.4811250,None,None,None,None,None,None,None,6,None,None,None
+125,n/a,34.7192709,135.4831725,None,None,None,None,None,None,None,7,None,None,None
+126,mini mini 立体パーキング (minimini Parking),34.7192798,135.4832711,None,None,None,None,None,None,None,4,None,None,None
+127,n/a,34.7044499,135.5661445,None,None,None,None,None,None,None,10,None,None,None
+128,n/a,34.7664364,135.5316718,None,None,None,None,None,None,None,4,None,None,None
+129,n/a,34.8228045,135.4946760,None,None,None,None,None,None,None,2,None,None,None
+130,n/a,34.8229883,135.4846206,None,None,None,None,None,None,None,9,None,None,None
+131,n/a,34.8269215,135.4800845,None,None,None,None,None,None,None,0,None,None,None
+132,n/a,34.7466398,135.6943651,None,None,None,None,None,None,None,7,None,None,None
+133,上汐駐車場,34.6602310,135.5156810,None,None,None,None,None,None,None,4,None,None,None
+134,n/a,34.6979082,135.5309133,None,None,None,None,None,None,None,4,None,None,None
+135,n/a,34.6796034,135.6022615,None,None,None,None,None,None,None,6,None,None,None
+136,n/a,34.8854847,135.4161967,None,None,None,None,None,None,None,3,None,None,None
+137,大町西駐車場,34.5779222,135.4703326,None,None,None,None,None,None,None,3,None,None,None
+138,Times堺駅南口第二,34.5810904,135.4676303,None,None,None,None,None,None,None,4,None,None,None
+139,タイムズ,34.5792950,135.4697410,None,None,None,None,None,None,None,5,None,None,None
+140,タイムズ,34.5791626,135.4705673,None,None,None,None,None,None,None,7,None,None,None
+141,タイムズ,34.6876940,135.5458980,None,None,None,None,None,None,None,2,None,None,None
+142,三井のリパーク,34.6877310,135.5494490,None,None,None,None,None,None,None,10,None,None,None
+143,CARBOY,34.6809730,135.5477230,None,None,None,None,None,None,None,9,None,None,None
+144,タイムリー24 天王田,34.6902700,135.5518880,None,None,None,None,None,None,None,0,None,None,None
+145,パークレント 中浜パーキング,34.6850770,135.5448410,None,None,None,None,None,None,None,9,None,None,None
+146,中浜パーキング,34.6867550,135.5430610,None,None,None,None,None,None,None,2,None,None,None
+147,タイムズ天六第二,34.7097600,135.5118210,None,None,None,None,None,None,None,8,None,None,None
+148,マリンパーク本庄西,34.7116130,135.5066730,None,None,None,None,None,None,None,9,None,None,None
+149,三井のリパーク,34.7099544,135.5130965,None,None,None,None,None,None,None,7,None,None,None
+150,フレンドパーク本庄東,34.7141190,135.5076460,None,None,None,None,None,None,None,8,None,None,None
+151,三井のリパーク,34.7100590,135.5070890,None,None,None,None,None,None,None,9,None,None,None
+152,アローパーキング,34.7087520,135.5095890,None,None,None,None,None,None,None,9,None,None,None
+153,TIMES,34.7101059,135.5049937,None,None,None,None,None,None,None,1,None,None,None
+154,タイムズ難波第11,34.6617670,135.4999990,None,None,None,None,None,None,None,10,None,None,None
+155,タイムズ豊崎第一,34.7115550,135.5012380,None,None,None,None,None,None,None,3,None,None,None
+156,三井のリパーク,34.6938474,135.5482771,None,None,None,None,None,None,None,8,None,None,None
+157,ZEUS,34.7081000,135.5110180,None,None,None,None,None,None,None,6,None,None,None
+158,ワンパーク,34.7083140,135.5117140,None,None,None,None,None,None,None,2,None,None,None
+159,エコロパーク,34.6673520,135.5043890,None,None,None,None,None,None,None,9,None,None,None
+160,n/a,34.6950130,135.5464530,None,None,None,None,None,None,None,0,None,None,None
+161,TOMOパーキング,34.6980340,135.5460720,None,None,None,None,None,None,None,0,None,None,None
+162,n/a,34.6980170,135.4966210,None,None,None,None,None,None,None,8,None,None,None
+163,出入橋バイク駐車場,34.6970220,135.4918800,None,None,None,None,None,None,None,4,None,None,None
+164,身体障害者専用駐車場（学生用）,34.5904568,135.5033243,None,None,None,None,None,None,None,10,None,None,None
+165,n/a,34.5908283,135.5031801,None,None,None,None,None,None,None,3,None,None,None
+166,n/a,34.7032238,135.5180984,None,None,None,None,None,None,None,1,None,None,None
+167,n/a,34.8642095,135.5318321,None,None,None,None,None,None,None,0,None,None,None
+168,ジャストインパーク,34.6844410,135.5448430,None,None,None,None,None,None,None,5,None,None,None
+169,タイムズ,34.6514290,135.5814090,None,None,None,None,None,None,None,10,None,None,None
+170,パラカ,34.6511750,135.5781720,None,None,None,None,None,None,None,2,None,None,None
+171,三井のリパーク,34.6513480,135.5781320,None,None,None,None,None,None,None,0,None,None,None
+172,鴫野東3丁目パーキング,34.6900440,135.5487930,None,None,None,None,None,None,None,0,None,None,None
+173,PEN,34.6969340,135.5168140,None,None,None,None,None,None,None,10,None,None,None
+174,ナビパーク,34.6989950,135.5180040,None,None,None,None,None,None,None,7,None,None,None
+175,三井のリパーク,34.7014670,135.5174560,None,None,None,None,None,None,None,8,None,None,None
+176,タイムズ,34.7023250,135.5172210,None,None,None,None,None,None,None,8,None,None,None
+177,エコパーク,34.7116170,135.5007560,None,None,None,None,None,None,None,3,None,None,None
+178,APパーク,34.7104740,135.4978540,None,None,None,None,None,None,None,9,None,None,None
+179,セレパーク,34.7124110,135.4978010,None,None,None,None,None,None,None,3,None,None,None
+180,京都アクアリーナ駐車場入口,34.9890467,135.7157288,None,None,None,None,None,None,None,4,None,None,None
+181,n/a,34.6898302,135.8261877,None,None,None,None,None,None,None,2,None,None,None
+182,n/a,34.6875382,135.8310290,None,None,None,None,None,None,None,0,None,None,None
+183,n/a,34.6873173,135.8302925,None,None,None,None,None,None,None,6,None,None,None
+184,n/a,34.7020053,135.4850976,None,None,None,None,None,None,None,3,None,None,None
+185,n/a,34.7549140,135.4988441,None,None,None,None,None,None,None,2,None,None,None
+186,ふくろう,34.6856920,135.5118490,None,None,None,None,None,None,None,7,None,None,None
+187,府立 伏見港公園入り口,34.9255777,135.7592749,None,None,None,None,None,None,None,2,None,None,None
+188,n/a,34.6943027,135.5085563,None,None,None,None,None,None,None,4,None,None,None
+189,n/a,34.6943817,135.5108612,None,None,None,None,None,None,None,2,None,None,None
+190,FK池田町パーキング,34.7076330,135.5132540,None,None,None,None,None,None,None,9,None,None,None
+191,タイムズ,35.0029100,135.7317220,None,None,None,None,None,None,None,2,None,None,None
+192,タイムパーク西大路松原,34.9984960,135.7316430,None,None,None,None,None,None,None,4,None,None,None
+193,n/a,34.6926672,135.5155532,None,None,None,None,None,None,None,9,None,None,None
+194,n/a,34.9829970,135.7592830,None,None,None,None,None,None,None,7,None,None,None
+195,n/a,34.9821600,135.7569030,None,None,None,None,None,None,None,7,None,None,None
+196,n/a,34.9821120,135.7574320,None,None,None,None,None,None,None,0,None,None,None
+197,n/a,34.9817770,135.7562010,None,None,None,None,None,None,None,2,None,None,None
+198,n/a,34.9816950,135.7565120,None,None,None,None,None,None,None,1,None,None,None
+199,n/a,34.9812240,135.7561340,None,None,None,None,None,None,None,3,None,None,None
+200,n/a,34.9814419,135.7551770,None,None,None,None,None,None,None,8,None,None,None
+201,宗右衛門町モータープール,34.6697530,135.5024670,None,None,None,None,None,None,None,2,None,None,None
+202,三井のリパーク,34.5673280,135.4790230,None,None,None,None,None,None,None,0,None,None,None
+203,Parkin' Park,34.5667580,135.4788690,None,None,None,None,None,None,None,10,None,None,None
+204,n/a,34.5647310,135.4769700,None,None,None,None,None,None,None,6,None,None,None
+205,n/a,34.5616380,135.4804370,None,None,None,None,None,None,None,7,None,None,None
+206,ASAHI PARK,34.6781150,135.8320340,None,None,None,None,None,None,None,9,None,None,None
+207,三井のリパーク,34.6760610,135.5032280,None,None,None,None,None,None,None,9,None,None,None
+208,タイムズ,34.6768130,135.5055320,None,None,None,None,None,None,None,0,None,None,None
+209,タイムズ,34.6776630,135.5043180,None,None,None,None,None,None,None,3,None,None,None
+210,タイムズ,34.6776030,135.5050960,None,None,None,None,None,None,None,7,None,None,None
+211,セレパーク,34.6773640,135.5053150,None,None,None,None,None,None,None,9,None,None,None
+212,ナビパーク,34.6857850,135.5063670,None,None,None,None,None,None,None,2,None,None,None
+213,タイムズ,34.6774380,135.5026000,None,None,None,None,None,None,None,0,None,None,None
+214,n/a,34.7142978,135.3779223,None,None,None,None,None,None,None,9,None,None,None
+215,タイムズ,34.6905150,135.5181960,None,None,None,None,None,None,None,6,None,None,None
+216,タイムズ,34.6890148,135.5102324,None,None,None,None,None,None,None,10,None,None,None
+217,n/a,34.8307035,135.5111264,None,None,None,None,None,None,None,8,None,None,None
+218,タイムズ,34.6610630,135.5000930,None,None,None,None,None,None,None,10,None,None,None
+219,n/a,34.6695350,135.5033460,None,None,None,None,None,None,None,2,None,None,None
+220,n/a,34.6840310,135.8227920,None,None,None,None,None,None,None,3,None,None,None
+221,道の駅大和路へぐり,34.6233561,135.7063933,None,None,None,None,None,None,None,9,None,None,None
+222,くわの実保育園駐車場入り口,35.0042722,135.5890916,None,None,None,None,None,None,None,0,None,None,None
+223,n/a,34.9644520,135.7698280,None,None,None,None,None,None,None,4,None,None,None
+224,片町カーポート,34.6917250,135.5223070,None,None,None,None,None,None,None,4,None,None,None
+225,n/a,34.7197380,135.7223157,None,None,None,None,None,None,None,6,None,None,None
+226,タイムズ,34.6882220,135.5552680,None,None,None,None,None,None,None,5,None,None,None
+227,n/a,34.5581723,135.5787886,None,None,None,None,None,None,None,5,None,None,None
+228,n/a,34.9932790,135.7460540,None,None,None,None,None,None,None,7,None,None,None
+229,さらら仁川第一駐車場,34.7760192,135.3570768,None,None,None,None,None,None,None,6,None,None,None
+230,n/a,35.0263750,135.7529940,None,None,None,None,None,None,None,6,None,None,None
+231,タイムズ,34.9829548,135.7608375,None,None,None,None,None,None,None,4,None,None,None
+232,n/a,34.6854680,135.4979880,None,None,None,None,None,None,None,3,None,None,None
+233,n/a,34.6851430,135.4979910,None,None,None,None,None,None,None,10,None,None,None
+234,タイムズ,34.7502668,135.4321605,None,None,None,None,None,None,None,8,None,None,None
+235,タイムズ,34.7128680,135.5462750,None,None,None,None,None,None,None,1,None,None,None
+236,三井のリパーク,34.9679231,135.7263539,None,None,None,None,None,None,None,4,None,None,None
+237,n/a,34.6901180,135.6967214,None,None,None,None,None,None,None,4,None,None,None
+238,n/a,34.6915060,135.6970520,None,None,None,None,None,None,None,10,None,None,None
+239,n/a,34.6920970,135.6981720,None,None,None,None,None,None,None,6,None,None,None
+240,n/a,34.6915400,135.6984390,None,None,None,None,None,None,None,9,None,None,None
+241,三井のリパーク,34.6919040,135.6983270,None,None,None,None,None,None,None,0,None,None,None
+242,タイムズ,34.9803298,135.6913849,None,None,None,None,None,None,None,7,None,None,None
+243,タイムズ,34.7115150,135.5053660,None,None,None,None,None,None,None,7,None,None,None
+244,タイムズ大阪空港東,34.7906360,135.4468398,None,None,None,None,None,None,None,6,None,None,None
+245,n/a,34.6386070,135.6594312,None,None,None,None,None,None,None,9,None,None,None
+246,n/a,34.5903813,135.5031646,None,None,None,None,None,None,None,3,None,None,None
+247,n/a,34.6713530,135.6264816,None,None,None,None,None,None,None,10,None,None,None
+248,オリーブハイツ 枚方長尾団地 南公園横駐車場,34.8189710,135.7143910,None,None,None,None,None,None,None,1,None,None,None
+249,n/a,34.6489480,135.6230517,None,None,None,None,None,None,None,4,None,None,None
+250,タイムズ24,34.9959784,135.7510028,None,None,None,None,None,None,None,7,None,None,None
+251,n/a,34.8302990,135.4103470,None,None,None,None,None,None,None,10,None,None,None
+252,リパーク,34.8282788,135.4113977,None,None,None,None,None,None,None,9,None,None,None
+253,リパーク,34.8283095,135.4112343,None,None,None,None,None,None,None,0,None,None,None
+254,n/a,34.8300307,135.4129108,None,None,None,None,None,None,None,4,None,None,None
+255,n/a,34.6875410,135.7156050,None,None,None,None,None,None,None,2,None,None,None
+256,魚屋町２パーキング,34.9316240,135.7633240,None,None,None,None,None,None,None,0,None,None,None
+257,トーワパーキング 中書島第２,34.9293020,135.7600350,None,None,None,None,None,None,None,1,None,None,None
+258,風良都パーク２４,34.9274030,135.7597720,None,None,None,None,None,None,None,4,None,None,None
+259,三井のリパーク 伏見区伯耆町,34.9336740,135.7600510,None,None,None,None,None,None,None,2,None,None,None
+260,ブーブーパーク 伏見大手筋第４,34.9326580,135.7595490,None,None,None,None,None,None,None,2,None,None,None
+261,三井のリパーク ハローワーク伏見前,34.9343316,135.7600283,None,None,None,None,None,None,None,4,None,None,None
+262,n/a,34.8218370,135.7724330,None,None,None,None,None,None,None,9,None,None,None
+263,n/a,34.8220880,135.7709980,None,None,None,None,None,None,None,5,None,None,None
+264,中油掛町パーキング,34.9314750,135.7601460,None,None,None,None,None,None,None,5,None,None,None
+265,風良都ぱーく１０,34.9301081,135.7603764,None,None,None,None,None,None,None,10,None,None,None
+266,三井のリパーク 東山安井,35.0008000,135.7773700,None,None,None,None,None,None,None,10,None,None,None
+267,キョウテク 三条古川町パーキング,35.0097020,135.7791010,None,None,None,None,None,None,None,3,None,None,None
+268,Times 田辺平田,34.8224730,135.7720670,None,None,None,None,None,None,None,4,None,None,None
+269,キョウテク 文京学園南パーキング,35.0101490,135.7790580,None,None,None,None,None,None,None,8,None,None,None
+270,n/a,34.6845940,135.8130160,None,None,None,None,None,None,None,1,None,None,None
+271,三井のリパーク 寺町松原北,34.9992070,135.7666950,None,None,None,None,None,None,None,8,None,None,None
+272,ピットイン寺町,35.0008700,135.7666950,None,None,None,None,None,None,None,6,None,None,None
+273,寺町松原２パーキング,34.9990420,135.7667120,None,None,None,None,None,None,None,7,None,None,None
+274,寺町イハヤパーキング,35.0000030,135.7669710,None,None,None,None,None,None,None,7,None,None,None
+275,三井のリパーク 寺町松原,34.9990320,135.7670120,None,None,None,None,None,None,None,2,None,None,None
+276,n/a,34.6789431,135.8185940,None,None,None,None,None,None,None,9,None,None,None
+277,n/a,34.6792452,135.8184360,None,None,None,None,None,None,None,9,None,None,None
+278,n/a,34.6789496,135.8195062,None,None,None,None,None,None,None,9,None,None,None
+279,n/a,34.6789364,135.8192835,None,None,None,None,None,None,None,8,None,None,None
+280,n/a,34.6788791,135.8190794,None,None,None,None,None,None,None,4,None,None,None
+281,TOYOCARMAX,34.9330910,135.7594140,None,None,None,None,None,None,None,3,None,None,None
+282,くるっとパーク,34.9350000,135.7558300,None,None,None,None,None,None,None,8,None,None,None
+283,きりん２４,34.9351990,135.7591160,None,None,None,None,None,None,None,1,None,None,None
+284,ブーブーパーク 伏見大手筋第３駐車場,34.9323500,135.7639650,None,None,None,None,None,None,None,10,None,None,None
+285,魚屋町パーキング,34.9318340,135.7638320,None,None,None,None,None,None,None,1,None,None,None
+286,上油掛町パーキング,34.9313770,135.7611080,None,None,None,None,None,None,None,6,None,None,None
+287,三井のリパーク 西天満2丁目 第3,34.6961860,135.5015080,None,None,None,None,None,None,None,4,None,None,None
+288,タイムズ 奈良油留木町,34.6869288,135.8327134,None,None,None,None,None,None,None,2,None,None,None
+289,三井のリパーク 奈良県庁前,34.6865315,135.8325363,None,None,None,None,None,None,None,5,None,None,None
+290,中書島駅前パーキング,34.9271710,135.7595120,None,None,None,None,None,None,None,5,None,None,None
+291,西柳町パーキング,34.9285400,135.7594450,None,None,None,None,None,None,None,6,None,None,None
+292,NEPROパーキング,35.0173010,135.7677400,None,None,None,None,None,None,None,10,None,None,None
+293,三井のリパーク 河原町丸太町南,35.0165720,135.7684120,None,None,None,None,None,None,None,10,None,None,None
+294,竹屋町通車屋町パーキング,35.0161910,135.7602070,None,None,None,None,None,None,None,1,None,None,None
+295,D-Parking 堀之内町,35.0162850,135.7621390,None,None,None,None,None,None,None,9,None,None,None
+296,タイムズ柳馬場竹屋町,35.0162650,135.7634610,None,None,None,None,None,None,None,0,None,None,None
+297,NEPRO パーキング２,35.0165775,135.7679496,None,None,None,None,None,None,None,9,None,None,None
+298,OnePark松本町,35.0161370,135.7662560,None,None,None,None,None,None,None,10,None,None,None
+299,タイムズ,35.0164250,135.7671560,None,None,None,None,None,None,None,3,None,None,None
+300,n/a,34.7396530,135.4965980,None,None,None,None,None,None,None,1,None,None,None
+301,月極,34.6745950,135.8307910,None,None,None,None,None,None,None,1,None,None,None
+302,藤阪駅 東口 駐車場,34.8145640,135.7031000,None,None,None,None,None,None,None,3,None,None,None
+303,TOMO,34.6480510,135.5228000,None,None,None,None,None,None,None,9,None,None,None
+304,Times 大道,34.6482160,135.5222150,None,None,None,None,None,None,None,2,None,None,None
+305,宮前駐車場,34.7821946,135.4165953,None,None,None,None,None,None,None,4,None,None,None
+306,ことぶき 整骨院 専用 駐車場,34.8206530,135.7142540,None,None,None,None,None,None,None,2,None,None,None
+307,AP パーク,34.6979380,135.7517570,None,None,None,None,None,None,None,7,None,None,None
+308,n/a,34.6869114,135.8295213,None,None,None,None,None,None,None,1,None,None,None
+309,n/a,34.8214463,135.7004505,None,None,None,None,None,None,None,9,None,None,None
+310,三井のリパーク,34.6856620,135.8076370,None,None,None,None,None,None,None,9,None,None,None
+311,n/a,34.6855760,135.8080820,None,None,None,None,None,None,None,1,None,None,None
+312,n/a,34.9956966,135.7638230,None,None,None,None,None,None,None,7,None,None,None
+313,n/a,34.9957554,135.7635073,None,None,None,None,None,None,None,10,None,None,None
+314,n/a,34.7317202,135.7348431,None,None,None,None,None,None,None,1,None,None,None
+315,n/a,34.8243704,135.6732820,None,None,None,None,None,None,None,9,None,None,None
+316,n/a,34.8243975,135.6715983,None,None,None,None,None,None,None,4,None,None,None
+317,n/a,34.8244240,135.6728838,None,None,None,None,None,None,None,6,None,None,None
+318,n/a,34.8247449,135.6729004,None,None,None,None,None,None,None,9,None,None,None
+319,n/a,34.8249172,135.6729477,None,None,None,None,None,None,None,8,None,None,None
+320,n/a,34.8249582,135.6732431,None,None,None,None,None,None,None,0,None,None,None
+321,n/a,34.8255140,135.6726925,None,None,None,None,None,None,None,0,None,None,None
+322,n/a,34.8257049,135.6726755,None,None,None,None,None,None,None,6,None,None,None
+323,n/a,34.8258372,135.6724743,None,None,None,None,None,None,None,2,None,None,None
+324,n/a,34.8202230,135.7700980,None,None,None,None,None,None,None,7,None,None,None
+325,GSPark 学園北２丁目,34.6979938,135.7525353,None,None,None,None,None,None,None,0,None,None,None
+326,ベルパーク,34.7649170,135.6196089,None,None,None,None,None,None,None,0,None,None,None
+327,n/a,34.7454710,135.4973020,None,None,None,None,None,None,None,5,None,None,None
+328,システムパーク京都駅前 西NO2,34.9861918,135.7539011,None,None,None,None,None,None,None,6,None,None,None
+329,かーボーイ,34.7453970,135.5316350,None,None,None,None,None,None,None,2,None,None,None
+330,三井のリパーク,34.7135490,135.5104290,None,None,None,None,None,None,None,3,None,None,None
+331,ワンパーク長柄中,34.7159600,135.5151180,None,None,None,None,None,None,None,3,None,None,None
+332,タイムズ,34.7120506,135.5119833,None,None,None,None,None,None,None,6,None,None,None
+333,GSパーキング 城南宮東口,34.9499537,135.7523712,None,None,None,None,None,None,None,3,None,None,None
+334,エコロパーク御駕籠町第一,34.9372275,135.7609644,None,None,None,None,None,None,None,8,None,None,None
+335,タイムズ,34.7028860,135.4906840,None,None,None,None,None,None,None,10,None,None,None
+336,タイムズ伏見桃山駅北,34.9342175,135.7641697,None,None,None,None,None,None,None,3,None,None,None
+337,Times,34.7466390,135.6090830,None,None,None,None,None,None,None,3,None,None,None
+338,Times 若江 岩田,34.6643010,135.6086720,None,None,None,None,None,None,None,3,None,None,None
+339,Times,34.6635620,135.6073420,None,None,None,None,None,None,None,5,None,None,None
+340,南都 銀行 専用 駐車場,34.8198270,135.7704360,None,None,None,None,None,None,None,1,None,None,None
+341,リパーク奈良三条町,34.6816940,135.8225990,None,None,None,None,None,None,None,2,None,None,None
+342,タイムズ,34.6804560,135.8223830,None,None,None,None,None,None,None,5,None,None,None
+343,Times 若江 岩田 第3,34.6639840,135.6073670,None,None,None,None,None,None,None,8,None,None,None
+344,キーパーズ 岩田町 5丁目,34.6655130,135.6096200,None,None,None,None,None,None,None,2,None,None,None
+345,Times 若江 岩田 第5,34.6649190,135.6095500,None,None,None,None,None,None,None,2,None,None,None
+346,JR 京田辺 西 駐車場,34.8202480,135.7686560,None,None,None,None,None,None,None,4,None,None,None
+347,モーター プール 11,34.6913560,135.7081780,None,None,None,None,None,None,None,5,None,None,None
+348,n/a,34.9877210,135.7323280,None,None,None,None,None,None,None,0,None,None,None
+349,タイムズ,34.9922880,135.7325520,None,None,None,None,None,None,None,1,None,None,None
+350,n/a,34.9847340,135.7323380,None,None,None,None,None,None,None,9,None,None,None
+351,西大路七条パーキング,34.9867800,135.7323590,None,None,None,None,None,None,None,7,None,None,None
+352,エコロパーク,34.9886880,135.7326780,None,None,None,None,None,None,None,3,None,None,None
+353,三井のリパーク,34.9904080,135.7327650,None,None,None,None,None,None,None,9,None,None,None
+354,n/a,34.9882770,135.7326380,None,None,None,None,None,None,None,5,None,None,None
+355,n/a,34.9877460,135.7327510,None,None,None,None,None,None,None,10,None,None,None
+356,GS Park,34.6755300,135.5323910,None,None,None,None,None,None,None,3,None,None,None
+357,駐車場,34.6776331,135.5336786,None,None,None,None,None,None,None,1,None,None,None
+358,銀座モータープール 駐車場,34.5755182,135.4834625,None,None,None,None,None,None,None,7,None,None,None
+359,BooBoo Park,34.6643870,135.5058010,None,None,None,None,None,None,None,2,None,None,None
+360,n/a,34.6482140,135.5186840,None,None,None,None,None,None,None,10,None,None,None
+361,n/a,34.7995093,135.5840459,None,None,None,None,None,None,None,8,None,None,None
+362,n/a,34.7993380,135.5841170,None,None,None,None,None,None,None,1,None,None,None
+363,アルファ パーク I,34.6853350,135.8082940,None,None,None,None,None,None,None,10,None,None,None
+364,n/a,34.8197780,135.7001433,None,None,None,None,None,None,None,5,None,None,None
+365,パークステーション24,34.7309570,135.5927510,None,None,None,None,None,None,None,7,None,None,None
+366,Poo天神橋,34.7076930,135.5121700,None,None,None,None,None,None,None,10,None,None,None
+367,龍安寺miniパーキング,35.0306230,135.7204920,None,None,None,None,None,None,None,6,None,None,None
+368,タイムズ,34.6650220,135.5283380,None,None,None,None,None,None,None,9,None,None,None
+369,n/a,34.6586870,135.5336340,None,None,None,None,None,None,None,3,None,None,None
+370,さわやかパーキング,34.6649680,135.5287400,None,None,None,None,None,None,None,9,None,None,None
+371,三井のリパーク,34.6639910,135.5283990,None,None,None,None,None,None,None,0,None,None,None
+372,TOMOパーキングサービス,34.6549600,135.5340050,None,None,None,None,None,None,None,0,None,None,None
+373,ゼロパーク,34.6573970,135.5331910,None,None,None,None,None,None,None,9,None,None,None
+374,n/a,34.6581010,135.5332150,None,None,None,None,None,None,None,7,None,None,None
+375,n/a,34.7441930,135.4985050,None,None,None,None,None,None,None,9,None,None,None
+376,n/a,34.7003290,135.7499520,None,None,None,None,None,None,None,4,None,None,None
+377,タイムス,34.7009831,135.5180156,None,None,None,None,None,None,None,10,None,None,None
+378,エコロパーク,34.6805150,135.5478580,None,None,None,None,None,None,None,1,None,None,None
+379,タイムズ大阪厚生信用金庫深江支店,34.6788570,135.5573330,None,None,None,None,None,None,None,1,None,None,None
+380,n/a,34.7094870,135.5390250,None,None,None,None,None,None,None,3,None,None,None
+381,三井のリパーク,34.7097810,135.5394240,None,None,None,None,None,None,None,3,None,None,None
+382,三井のリパーク,34.7138300,135.5426690,None,None,None,None,None,None,None,2,None,None,None
+383,タイムズ,34.7008030,135.5479990,None,None,None,None,None,None,None,3,None,None,None
+384,タイムズ,34.7020260,135.5595310,None,None,None,None,None,None,None,2,None,None,None
+385,タイムズ,34.6761620,135.4831300,None,None,None,None,None,None,None,8,None,None,None
+386,タイムズ,34.5973660,135.5129130,None,None,None,None,None,None,None,9,None,None,None
+387,リータ屋上駐車場,34.7797011,135.4136499,None,None,None,None,None,None,None,1,None,None,None
+388,タイムズ鴫野東第3,34.6887270,135.5492210,None,None,None,None,None,None,None,9,None,None,None
+389,三井のリパーク,34.8159237,135.3734759,None,None,None,None,None,None,None,4,None,None,None
+390,BePark,34.6638980,135.5900993,None,None,None,None,None,None,None,7,None,None,None
+391,中西 モーター プール,34.6961230,135.6430060,None,None,None,None,None,None,None,1,None,None,None
+392,HOTEL 1-2-3 第一 駐車場,34.6495990,135.5230270,None,None,None,None,None,None,None,1,None,None,None
+393,Times,34.6920104,135.5405991,None,None,None,None,None,None,None,8,None,None,None
+394,フルーツパーク,34.6908551,135.5457197,None,None,None,None,None,None,None,10,None,None,None
+395,三井のリパーク 鴫野西4丁目 第2,34.6922923,135.5397793,None,None,None,None,None,None,None,5,None,None,None
+396,n/a,34.6811170,135.5432472,None,None,None,None,None,None,None,0,None,None,None
+397,ジャストインパーク 東中浜,34.6856127,135.5464070,None,None,None,None,None,None,None,6,None,None,None
+398,エコロパーク鴫野東第2,34.6930081,135.5478254,None,None,None,None,None,None,None,7,None,None,None
+399,三井のリパーク,34.6952845,135.5518813,None,None,None,None,None,None,None,1,None,None,None
+400,24時間パーキング 今福西1,34.6987599,135.5481182,None,None,None,None,None,None,None,7,None,None,None
+401,ランドパーキング鴫野東2丁目,34.6920609,135.5476560,None,None,None,None,None,None,None,8,None,None,None
+402,三井のリパーク鴫野東2丁目第2,34.6934061,135.5483849,None,None,None,None,None,None,None,7,None,None,None
+403,タイムズ野江第4,34.7072139,135.5457637,None,None,None,None,None,None,None,9,None,None,None
+404,n/a,34.7596610,135.7898540,None,None,None,None,None,None,None,7,None,None,None
+405,OnePark 上汐5丁目,34.6606455,135.5154875,None,None,None,None,None,None,None,1,None,None,None
+406,エコロパーク 生玉前町第1,34.6627790,135.5152900,None,None,None,None,None,None,None,4,None,None,None
+407,カンソーパーク,34.8190138,135.6563825,None,None,None,None,None,None,None,2,None,None,None
+408,ひまわり パーキング,34.6959440,135.4857010,None,None,None,None,None,None,None,8,None,None,None
+409,Times,34.6881210,135.4741680,None,None,None,None,None,None,None,10,None,None,None
+410,キタガワ 月極 駐車場,34.8211430,135.7713210,None,None,None,None,None,None,None,7,None,None,None
+411,Times,34.6099500,135.5468070,None,None,None,None,None,None,None,5,None,None,None
+412,月極 駐車場,34.6245570,135.5226810,None,None,None,None,None,None,None,2,None,None,None
+413,西村 モーター プール,34.6249850,135.5225010,None,None,None,None,None,None,None,1,None,None,None
+414,n/a,34.7737286,135.3267501,None,None,None,None,None,None,None,1,None,None,None
+415,n/a,34.7088000,135.5441040,None,None,None,None,None,None,None,7,None,None,None
+416,白石 駐車場,34.7028130,135.5140950,None,None,None,None,None,None,None,4,None,None,None
+417,n/a,34.7046881,135.5140190,None,None,None,None,None,None,None,5,None,None,None
+418,n/a,34.6721008,135.7982940,None,None,None,None,None,None,None,3,None,None,None
+419,n/a,35.0136392,135.6935687,None,None,None,None,None,None,None,8,None,None,None
+420,パークNET,34.6663990,135.5287280,None,None,None,None,None,None,None,9,None,None,None
+421,合同庁舎駐車場,34.6818676,135.5195613,None,None,None,None,None,None,None,5,None,None,None
+422,学園前 東 モーター プール,34.6978240,135.7523870,None,None,None,None,None,None,None,8,None,None,None
+423,TOYO CAR MAX,34.6986290,135.7520220,None,None,None,None,None,None,None,2,None,None,None
+424,TOYO CAR MAX,34.6983310,135.7520470,None,None,None,None,None,None,None,5,None,None,None
+425,n/a,34.9108202,135.6994960,None,None,None,None,None,None,None,0,None,None,None
+426,n/a,34.9826980,135.6473600,None,None,None,None,None,None,None,6,None,None,None
+427,n/a,34.9826700,135.6476600,None,None,None,None,None,None,None,9,None,None,None
+428,n/a,34.9831170,135.6456720,None,None,None,None,None,None,None,3,None,None,None
+429,n/a,34.9830590,135.6460000,None,None,None,None,None,None,None,4,None,None,None
+430,n/a,34.9824190,135.6488430,None,None,None,None,None,None,None,9,None,None,None
+431,D Pit,34.6882760,135.4775260,None,None,None,None,None,None,None,4,None,None,None
+432,Times,34.7429780,135.6009210,None,None,None,None,None,None,None,7,None,None,None
+433,n/a,34.7397358,135.4185895,None,None,None,None,None,None,None,5,None,None,None
+434,n/a,34.8195812,135.6534423,None,None,None,None,None,None,None,3,None,None,None
+435,n/a,34.7093170,135.4922940,None,None,None,None,None,None,None,4,None,None,None
+436,Times,34.7054870,135.4888720,None,None,None,None,None,None,None,1,None,None,None
+437,n/a,35.0108355,135.7363605,None,None,None,None,None,None,None,3,None,None,None
+438,n/a,35.0108605,135.7381554,None,None,None,None,None,None,None,4,None,None,None
+439,n/a,34.6747590,135.4972287,None,None,None,None,None,None,None,4,None,None,None
+440,風良都ぱーく77,35.0276092,135.7511552,None,None,None,None,None,None,None,8,None,None,None
+441,風良都ぱーく77,35.0275502,135.7515468,None,None,None,None,None,None,None,3,None,None,None
+442,タイムズ,34.6605730,135.5148710,None,None,None,None,None,None,None,3,None,None,None
+443,n/a,34.6648480,135.5156060,None,None,None,None,None,None,None,1,None,None,None
+444,n/a,34.6571820,135.5151960,None,None,None,None,None,None,None,6,None,None,None
+445,三井のリパーク,34.6576160,135.5164980,None,None,None,None,None,None,None,10,None,None,None
+446,n/a,34.6653470,135.5159780,None,None,None,None,None,None,None,10,None,None,None
+447,セレパーク,34.6636360,135.5130710,None,None,None,None,None,None,None,7,None,None,None
+448,ワンパーク,34.6498310,135.5127880,None,None,None,None,None,None,None,3,None,None,None
+449,タイムズ,34.6592260,135.5134010,None,None,None,None,None,None,None,0,None,None,None
+450,ワンパーク,34.6640600,135.5133390,None,None,None,None,None,None,None,9,None,None,None
+451,タイムズ,34.6533950,135.5139220,None,None,None,None,None,None,None,6,None,None,None
+452,ワンパーク,34.6603990,135.5139160,None,None,None,None,None,None,None,8,None,None,None
+453,タイムズ,34.7000380,135.5314160,None,None,None,None,None,None,None,10,None,None,None
+454,n/a,34.8082702,135.4939334,None,None,None,None,None,None,None,10,None,None,None
+455,n/a,34.7072544,135.5042650,None,None,None,None,None,None,None,1,None,None,None
+456,n/a,34.8299229,135.5164554,None,None,None,None,None,None,None,3,None,None,None
+457,パラカ久世殿城町第1,34.9573788,135.7174181,None,None,None,None,None,None,None,2,None,None,None
+458,n/a,34.8533233,135.6234603,None,None,None,None,None,None,None,3,None,None,None
+459,n/a,34.7762866,135.5327440,None,None,None,None,None,None,None,5,None,None,None
+460,n/a,34.9513933,135.6979672,None,None,None,None,None,None,None,6,None,None,None
+461,n/a,34.9515533,135.6980254,None,None,None,None,None,None,None,10,None,None,None
+462,n/a,34.7067763,135.5029061,None,None,None,None,None,None,None,1,None,None,None
+463,n/a,34.7642282,135.5116897,None,None,None,None,None,None,None,6,None,None,None
+464,スパディオ（Ｐ無）,34.6679011,135.4913850,None,None,None,None,None,None,None,8,None,None,None
+465,ピー・ゾーン南塚口町第２駐車場,34.7528898,135.4206931,None,None,None,None,None,None,None,3,None,None,None
+466,キーパーズ南塚口町３丁目 第３,34.7527420,135.4207907,None,None,None,None,None,None,None,1,None,None,None
+467,リパーク南塚口町３丁目 第２,34.7527445,135.4206413,None,None,None,None,None,None,None,1,None,None,None
+468,タイムズ東塚口町第２,34.7522260,135.4217607,None,None,None,None,None,None,None,5,None,None,None
+469,タイムパーキング南塚口町５丁目第３,34.7473889,135.4169623,None,None,None,None,None,None,None,6,None,None,None
+470,n/a,34.5851950,135.6191851,None,None,None,None,None,None,None,1,None,None,None
+471,和州 傍示 モータープール,34.6851870,135.7087640,None,None,None,None,None,None,None,4,None,None,None
+472,n/a,34.5941241,135.4993873,None,None,None,None,None,None,None,0,None,None,None
+473,ハイツ大道専用ガレージ,34.6482330,135.5205640,None,None,None,None,None,None,None,0,None,None,None
+474,河合モータープール,34.6484130,135.5214000,None,None,None,None,None,None,None,3,None,None,None
+475,森内モータープール,34.6857040,135.7123190,None,None,None,None,None,None,None,7,None,None,None
+476,Times,34.7079549,135.5229805,None,None,None,None,None,None,None,10,None,None,None
+477,n/a,34.7288214,135.2746649,None,None,None,None,None,None,None,2,None,None,None
+478,河合モータープール,34.6474710,135.5215670,None,None,None,None,None,None,None,10,None,None,None
+479,パークンパーク大今里,34.6687890,135.5417970,None,None,None,None,None,None,None,3,None,None,None
+480,KTF,34.6688190,135.5681330,None,None,None,None,None,None,None,10,None,None,None
+481,n/a,34.7968326,135.5524375,None,None,None,None,None,None,None,6,None,None,None
+482,n/a,34.7040568,135.4963923,None,None,None,None,None,None,None,4,None,None,None
+483,デュー阪急山田 用,34.8041673,135.5145049,None,None,None,None,None,None,None,10,None,None,None
+484,n/a,34.8114424,135.5168069,None,None,None,None,None,None,None,4,None,None,None
+485,n/a,34.7589461,135.5159455,None,None,None,None,None,None,None,3,None,None,None
+486,24 Hour Parking,34.8189902,135.6538975,None,None,None,None,None,None,None,5,None,None,None
+487,n/a,34.6773030,135.8006716,None,None,None,None,None,None,None,10,None,None,None
+488,n/a,34.6771894,135.7999286,None,None,None,None,None,None,None,4,None,None,None
+489,n/a,34.6778759,135.8001378,None,None,None,None,None,None,None,2,None,None,None
+490,n/a,34.6780855,135.7998575,None,None,None,None,None,None,None,8,None,None,None
+491,n/a,34.6833852,135.7976943,None,None,None,None,None,None,None,3,None,None,None
+492,n/a,34.6826628,135.7980618,None,None,None,None,None,None,None,4,None,None,None
+493,n/a,34.6847015,135.7990770,None,None,None,None,None,None,None,3,None,None,None
+494,n/a,34.6821776,135.7972994,None,None,None,None,None,None,None,5,None,None,None
+495,n/a,34.6820654,135.7961822,None,None,None,None,None,None,None,3,None,None,None
+496,n/a,34.6820684,135.7968146,None,None,None,None,None,None,None,1,None,None,None
+497,n/a,34.6791646,135.8140558,None,None,None,None,None,None,None,8,None,None,None
+498,n/a,34.6791216,135.8134295,None,None,None,None,None,None,None,3,None,None,None
+499,n/a,34.6787905,135.8163374,None,None,None,None,None,None,None,7,None,None,None
+500,n/a,34.6796030,135.8155659,None,None,None,None,None,None,None,5,None,None,None
+501,n/a,34.7158442,135.7523573,None,None,None,None,None,None,None,2,None,None,None
+502,n/a,34.7085936,135.7498772,None,None,None,None,None,None,None,8,None,None,None
+503,n/a,34.7085760,135.7493743,None,None,None,None,None,None,None,9,None,None,None
+504,n/a,34.7087259,135.7507550,None,None,None,None,None,None,None,0,None,None,None
+505,n/a,34.7087562,135.7503828,None,None,None,None,None,None,None,8,None,None,None
+506,塩川モータープール,34.6639885,135.5509908,None,None,None,None,None,None,None,8,None,None,None
+507,n/a,34.9803253,135.6644011,None,None,None,None,None,None,None,8,None,None,None
+508,河合ガレージ,34.6479626,135.5401347,None,None,None,None,None,None,None,0,None,None,None
+509,n/a,34.8331214,135.4879300,None,None,None,None,None,None,None,1,None,None,None
+510,n/a,34.8248744,135.6759477,None,None,None,None,None,None,None,1,None,None,None
+511,Pit in 100,35.0022344,135.7611760,None,None,None,None,None,None,None,6,None,None,None
+512,n/a,34.8046422,135.5161450,None,None,None,None,None,None,None,8,None,None,None
+513,n/a,34.7941151,135.5098832,None,None,None,None,None,None,None,1,None,None,None
+514,n/a,34.7990918,135.2471521,None,None,None,None,None,None,None,3,None,None,None
+515,n/a,34.7991091,135.2460653,None,None,None,None,None,None,None,1,None,None,None
+516,n/a,34.9909934,135.7305397,None,None,None,None,None,None,None,10,None,None,None
+517,東駐車場,34.7657318,135.5197524,None,None,None,None,None,None,None,7,None,None,None
+518,湯あそびひろば;ぽんぽこ温泉（Ｐ無）,34.6672912,135.5990219,None,None,None,None,None,None,None,0,None,None,None
+519,極楽湯東大阪店（平置きＰ無）,34.6794254,135.5845065,None,None,None,None,None,None,None,2,None,None,None
+520,P24,34.9797611,135.7588095,None,None,None,None,None,None,None,1,None,None,None
+521,キョウテク,34.9823683,135.7581182,None,None,None,None,None,None,None,0,None,None,None
+522,三井のリパーク,34.9805389,135.7595772,None,None,None,None,None,None,None,7,None,None,None
+523,三井のリパーク,34.9805704,135.7599077,None,None,None,None,None,None,None,10,None,None,None
+524,n/a,34.6890668,135.4905414,None,None,None,None,None,None,None,4,None,None,None
+525,n/a,34.6888748,135.4907539,None,None,None,None,None,None,None,10,None,None,None
+526,タイムズ,34.9806482,135.7592585,None,None,None,None,None,None,None,8,None,None,None
+527,オリックスパーキングスポット,34.6683868,135.4607767,None,None,None,None,None,None,None,4,None,None,None
+528,大今里南マサノパーク,34.6647248,135.5570760,None,None,None,None,None,None,None,6,None,None,None
+529,新町モータープール,34.6653700,135.5573818,None,None,None,None,None,None,None,4,None,None,None
+530,n/a,35.0291123,135.7513062,None,None,None,None,None,None,None,3,None,None,None
+531,いしかわモータープール,34.6576296,135.5382972,None,None,None,None,None,None,None,8,None,None,None
+532,DAIWA CYCLE 専用駐車場,34.6605948,135.5564229,None,None,None,None,None,None,None,6,None,None,None
+533,南駐車場,34.6096315,135.5201475,None,None,None,None,None,None,None,0,None,None,None
+534,中央駐車場,34.6130233,135.5169158,None,None,None,None,None,None,None,4,None,None,None
+535,オリエンタル,34.6640828,135.5302479,None,None,None,None,None,None,None,6,None,None,None
+536,n/a,34.7790376,135.5057982,None,None,None,None,None,None,None,9,None,None,None
+537,タイムズ,34.6895951,135.4918729,None,None,None,None,None,None,None,3,None,None,None
+538,上方温泉;一休,34.6816752,135.4346911,None,None,None,None,None,None,None,1,None,None,None
+539,n/a,34.6836364,135.4975377,None,None,None,None,None,None,None,7,None,None,None
+540,n/a,34.6863135,135.4932898,None,None,None,None,None,None,None,1,None,None,None
+541,ブレイク,34.6874549,135.4927394,None,None,None,None,None,None,None,6,None,None,None
+542,n/a,34.7592805,135.5262400,None,None,None,None,None,None,None,1,None,None,None
+543,n/a,34.7183722,135.4095918,None,None,None,None,None,None,None,4,None,None,None
+544,くるっとパーク,34.9827621,135.7568207,None,None,None,None,None,None,None,7,None,None,None
+545,社団法人 大阪商工振興会モータープール,34.6564934,135.5452428,None,None,None,None,None,None,None,0,None,None,None
+546,近商ストア東花園店駐車場,34.6625523,135.6243943,None,None,None,None,None,None,None,8,None,None,None
+547,n/a,34.7909261,135.5422650,None,None,None,None,None,None,None,7,None,None,None
+548,Times,34.6994724,135.5913493,None,None,None,None,None,None,None,9,None,None,None
+549,n/a,34.6430580,135.5102380,None,None,None,None,None,None,None,6,None,None,None
+550,n/a,34.7918090,135.5506040,None,None,None,None,None,None,None,10,None,None,None
+551,n/a,34.8034459,135.5560592,None,None,None,None,None,None,None,0,None,None,None
+552,n/a,34.8365817,135.5102165,None,None,None,None,None,None,None,9,None,None,None
+553,n/a,34.7570532,135.5131636,None,None,None,None,None,None,None,5,None,None,None
+554,n/a,34.8105188,135.3409772,None,None,None,None,None,None,None,10,None,None,None
+555,ヤマトパーキング,34.6436130,135.5335470,None,None,None,None,None,None,None,0,None,None,None
+556,n/a,34.5925906,135.5041988,None,None,None,None,None,None,None,0,None,None,None
+557,車椅子用駐車場,34.5939127,135.5055528,None,None,None,None,None,None,None,10,None,None,None
+558,n/a,34.8713071,135.5951218,None,None,None,None,None,None,None,5,None,None,None
+559,n/a,34.8724932,135.5945840,None,None,None,None,None,None,None,0,None,None,None
+560,三恵,34.6536582,135.5565839,None,None,None,None,None,None,None,7,None,None,None
+561,n/a,34.8088641,135.6438439,None,None,None,None,None,None,None,7,None,None,None
+562,n/a,34.8086562,135.6438472,None,None,None,None,None,None,None,2,None,None,None
+563,n/a,34.8086940,135.6435545,None,None,None,None,None,None,None,2,None,None,None
+564,n/a,34.8085023,135.6434657,None,None,None,None,None,None,None,1,None,None,None
+565,n/a,34.8103098,135.6457031,None,None,None,None,None,None,None,2,None,None,None
+566,n/a,34.8089689,135.6431402,None,None,None,None,None,None,None,2,None,None,None
+567,n/a,34.8040412,135.6225410,None,None,None,None,None,None,None,7,None,None,None
+568,n/a,34.8025050,135.6239303,None,None,None,None,None,None,None,1,None,None,None
+569,n/a,34.8030173,135.6239380,None,None,None,None,None,None,None,4,None,None,None
+570,n/a,34.7934543,135.6553210,None,None,None,None,None,None,None,9,None,None,None
+571,n/a,34.7934543,135.6557762,None,None,None,None,None,None,None,8,None,None,None
+572,n/a,34.7937330,135.6546902,None,None,None,None,None,None,None,5,None,None,None
+573,n/a,34.7939166,135.6549816,None,None,None,None,None,None,None,3,None,None,None
+574,n/a,34.7942872,135.6580042,None,None,None,None,None,None,None,3,None,None,None
+575,n/a,34.8026784,135.6231558,None,None,None,None,None,None,None,0,None,None,None
+576,n/a,34.8030825,135.6218091,None,None,None,None,None,None,None,3,None,None,None
+577,n/a,34.8022005,135.6243481,None,None,None,None,None,None,None,3,None,None,None
+578,n/a,34.8163533,135.5817068,None,None,None,None,None,None,None,4,None,None,None
+579,n/a,34.8167739,135.5813125,None,None,None,None,None,None,None,10,None,None,None
+580,n/a,34.8170492,135.5811971,None,None,None,None,None,None,None,7,None,None,None
+581,複々線高架下第40号地駐車場,34.6645185,135.5534611,None,None,None,None,None,None,None,8,None,None,None
+582,本町駐車場,34.6819370,135.4982748,None,None,None,None,None,None,None,8,None,None,None
+583,n/a,34.8306216,135.5234326,None,None,None,None,None,None,None,6,None,None,None
+584,タイムズ,34.6637938,135.5296773,None,None,None,None,None,None,None,5,None,None,None
+585,タイムズ,34.6641457,135.5297859,None,None,None,None,None,None,None,2,None,None,None
+586,タイムズ,34.6643966,135.5298677,None,None,None,None,None,None,None,5,None,None,None
+587,n/a,34.7007624,135.5023549,None,None,None,None,None,None,None,6,None,None,None
+588,南駐車場,34.7649325,135.5204920,None,None,None,None,None,None,None,10,None,None,None
+589,タイムズ,34.6847548,135.5029383,None,None,None,None,None,None,None,9,None,None,None
+590,n/a,34.7832049,135.5883021,None,None,None,None,None,None,None,5,None,None,None
+591,三井のリパーク,34.6247626,135.5527215,None,None,None,None,None,None,None,1,None,None,None
+592,n/a,34.6728811,135.5210995,None,None,None,None,None,None,None,7,None,None,None
+593,ユーバス守口店,34.7623765,135.5920214,None,None,None,None,None,None,None,0,None,None,None
+594,天然温泉;畷の里,34.7462316,135.6328059,None,None,None,None,None,None,None,4,None,None,None
+595,n/a,34.6640014,135.4593964,None,None,None,None,None,None,None,1,None,None,None
+596,スパバレイ 枚方南,34.8063506,135.7092648,None,None,None,None,None,None,None,10,None,None,None
+597,n/a,34.8140025,135.5598056,None,None,None,None,None,None,None,7,None,None,None
+598,n/a,34.8139527,135.5601675,None,None,None,None,None,None,None,2,None,None,None
+599,フラワーパーキング,34.6486622,135.5232239,None,None,None,None,None,None,None,0,None,None,None
+600,n/a,34.7650221,135.4978795,None,None,None,None,None,None,None,5,None,None,None
+601,n/a,34.6746392,135.5343135,None,None,None,None,None,None,None,1,None,None,None
+602,湯快のゆ寝屋川店,34.7767909,135.6143338,None,None,None,None,None,None,None,8,None,None,None
+603,n/a,34.8648130,135.4915872,None,None,None,None,None,None,None,2,None,None,None
+604,大阪府江坂立体駐車場,34.7608544,135.4972004,None,None,None,None,None,None,None,1,None,None,None
+605,福島駅前駐車場,34.6982232,135.4862939,None,None,None,None,None,None,None,8,None,None,None
+606,タイムズ,34.6988064,135.4853162,None,None,None,None,None,None,None,7,None,None,None
+607,n/a,34.7774779,135.5390489,None,None,None,None,None,None,None,6,None,None,None
+608,三井のリパーク,34.6609671,135.5338427,None,None,None,None,None,None,None,4,None,None,None
+609,中央P,34.7440703,135.3601380,None,None,None,None,None,None,None,1,None,None,None
+610,百貨店P,34.7431934,135.3591287,None,None,None,None,None,None,None,5,None,None,None
+611,n/a,34.7268914,135.2765425,None,None,None,None,None,None,None,1,None,None,None
+612,n/a,34.7245032,135.2800872,None,None,None,None,None,None,None,7,None,None,None
+613,n/a,34.7208222,135.2671749,None,None,None,None,None,None,None,8,None,None,None
+614,大道駐車場,34.6491979,135.5190276,None,None,None,None,None,None,None,2,None,None,None
+615,n/a,34.8144985,135.5598717,None,None,None,None,None,None,None,9,None,None,None
+616,n/a,34.8144273,135.5594600,None,None,None,None,None,None,None,5,None,None,None
+617,三井のリパーク,34.6780612,135.5340882,None,None,None,None,None,None,None,6,None,None,None
+618,土佐堀駐車場,34.6916612,135.4952659,None,None,None,None,None,None,None,9,None,None,None
+619,土佐堀駐車場,34.6899380,135.4932539,None,None,None,None,None,None,None,4,None,None,None
+620,n/a,34.8048776,135.5149841,None,None,None,None,None,None,None,8,None,None,None
+621,n/a,34.6738890,135.5053939,None,None,None,None,None,None,None,1,None,None,None
+622,宝モータープール,34.6732895,135.5051270,None,None,None,None,None,None,None,10,None,None,None
+623,n/a,34.8262791,135.5097941,None,None,None,None,None,None,None,10,None,None,None
+624,n/a,34.7980191,135.2479087,None,None,None,None,None,None,None,8,None,None,None
+625,n/a,34.7299364,135.2927448,None,None,None,None,None,None,None,8,None,None,None
+626,n/a,34.6509879,135.5788985,None,None,None,None,None,None,None,7,None,None,None
+627,n/a,34.6637581,135.5651490,None,None,None,None,None,None,None,10,None,None,None
+628,n/a,34.6556655,135.5886026,None,None,None,None,None,None,None,6,None,None,None
+629,n/a,34.6574828,135.5886032,None,None,None,None,None,None,None,1,None,None,None
+630,n/a,34.6629235,135.5929147,None,None,None,None,None,None,None,5,None,None,None
+631,n/a,34.6786826,135.5804733,None,None,None,None,None,None,None,0,None,None,None
+632,夢の公衆浴場;五色,34.7471122,135.4648123,None,None,None,None,None,None,None,1,None,None,None
+633,n/a,34.7264329,135.5917228,None,None,None,None,None,None,None,4,None,None,None
+634,松原天然温泉;YOU・ゆ〜,34.5838556,135.5706798,None,None,None,None,None,None,None,2,None,None,None
+635,ふくまさ専用駐車場,34.6480284,135.5457236,None,None,None,None,None,None,None,9,None,None,None
+636,P-cafe,34.6548767,135.5355573,None,None,None,None,None,None,None,0,None,None,None
+637,n/a,34.7583636,135.4962465,None,None,None,None,None,None,None,0,None,None,None
+638,タイムズＪＲ宇治駅前第２,34.8895618,135.7998422,None,None,None,None,None,None,None,9,None,None,None
+639,n/a,34.7626817,135.5260335,None,None,None,None,None,None,None,4,None,None,None
+640,田中町一丁目パーキング,34.7240122,135.2774650,None,None,None,None,None,None,None,0,None,None,None
+641,タイムズ 近鉄石切駅前,34.6852864,135.6548211,None,None,None,None,None,None,None,10,None,None,None
+642,市立;あしや温泉（Ｐ無）,34.7242801,135.3123183,None,None,None,None,None,None,None,8,None,None,None
+643,タイムズ,34.7337866,135.5200081,None,None,None,None,None,None,None,7,None,None,None
+644,キョウテク,35.0303330,135.7361839,None,None,None,None,None,None,None,3,None,None,None
+645,Boo Boo Park 上七軒第２駐車場,35.0290124,135.7376343,None,None,None,None,None,None,None,4,None,None,None
+646,n/a,34.6546928,135.4371839,None,None,None,None,None,None,None,0,None,None,None
+647,n/a,34.6544749,135.4365707,None,None,None,None,None,None,None,0,None,None,None
+648,n/a,34.7441441,135.6049503,None,None,None,None,None,None,None,9,None,None,None
+649,n/a,34.6526398,135.4450086,None,None,None,None,None,None,None,2,None,None,None
+650,タイムズ 香櫨園テニスクラブ,34.7265045,135.3256859,None,None,None,None,None,None,None,0,None,None,None
+651,n/a,34.7557551,135.3621490,None,None,None,None,None,None,None,5,None,None,None
+652,タイムズ,34.6664658,135.4578963,None,None,None,None,None,None,None,8,None,None,None
+653,n/a,34.9899549,135.7490859,None,None,None,None,None,None,None,4,None,None,None
+654,n/a,34.7454977,135.3715452,None,None,None,None,None,None,None,4,None,None,None
+655,神州温泉;あるごの湯,34.7380660,135.4790209,None,None,None,None,None,None,None,9,None,None,None
+656,華の湯,34.5607701,135.5733506,None,None,None,None,None,None,None,9,None,None,None
+657,ふれ愛温泉矢田（Ｐ無）,34.6002429,135.5302843,None,None,None,None,None,None,None,6,None,None,None
+658,大本山 霊山寺;薬師湯殿,34.6744512,135.7440747,None,None,None,None,None,None,None,1,None,None,None
+659,源気温泉;八尾おゆば,34.6142919,135.6239669,None,None,None,None,None,None,None,7,None,None,None
+660,ゆららの湯押熊店,34.7179529,135.7652328,None,None,None,None,None,None,None,9,None,None,None
+661,極楽湯奈良店,34.6743326,135.8018264,None,None,None,None,None,None,None,0,None,None,None
+662,ゆららの湯奈良店,34.6695026,135.8027819,None,None,None,None,None,None,None,4,None,None,None
+663,上方温泉;一休京都本館,34.8356813,135.8260261,None,None,None,None,None,None,None,1,None,None,None
+664,宇治天然温泉;源氏の湯,34.8694060,135.7789939,None,None,None,None,None,None,None,10,None,None,None
+665,竹取温泉 灯りの湯,34.8548334,135.6998017,None,None,None,None,None,None,None,5,None,None,None
+666,極楽湯枚方店,34.8474068,135.6943040,None,None,None,None,None,None,None,8,None,None,None
+667,東香里湯元;水春,34.7750063,135.6577177,None,None,None,None,None,None,None,9,None,None,None
+668,湯快のゆ門真店,34.7196725,135.6063911,None,None,None,None,None,None,None,8,None,None,None
+669,鶴見緑地湯元;水春,34.7088015,135.5801163,None,None,None,None,None,None,None,1,None,None,None
+670,タック桃山（Ｐ無）,34.6626676,135.5266707,None,None,None,None,None,None,None,5,None,None,None
+671,延羽の湯鶴橋店（Ｐ無）,34.6657457,135.5360204,None,None,None,None,None,None,None,7,None,None,None
+672,天然温泉;こうわの湯,34.6500106,135.4767440,None,None,None,None,None,None,None,7,None,None,None
+673,天然温泉;ひなたの湯（Ｐ無）,34.7315515,135.4895490,None,None,None,None,None,None,None,1,None,None,None
+674,和らかの湯,34.7334062,135.4109184,None,None,None,None,None,None,None,0,None,None,None
+675,潮芦屋温泉;スパ水春,34.7117115,135.3184281,None,None,None,None,None,None,None,10,None,None,None
+676,ひらの湯,34.8795980,135.4032430,None,None,None,None,None,None,None,8,None,None,None
+677,n/a,34.7768621,135.5441666,None,None,None,None,None,None,None,4,None,None,None
+678,タイムズ,34.7798941,135.4973117,None,None,None,None,None,None,None,9,None,None,None
+679,タイムパーキング東園田町第2,34.7527385,135.4441063,None,None,None,None,None,None,None,5,None,None,None
+680,東園田第二ガレージ,34.7527585,135.4439828,None,None,None,None,None,None,None,3,None,None,None
+681,BooBoo parking,34.9699758,135.7708603,None,None,None,None,None,None,None,3,None,None,None
+682,n/a,34.6836402,135.4642215,None,None,None,None,None,None,None,2,None,None,None
+683,n/a,34.6644472,135.4554470,None,None,None,None,None,None,None,7,None,None,None
+684,Paraca,34.6639593,135.4605151,None,None,None,None,None,None,None,7,None,None,None
+685,n/a,34.7855937,135.5058298,None,None,None,None,None,None,None,3,None,None,None
+686,三井のリパーク,34.9314990,135.7585491,None,None,None,None,None,None,None,6,None,None,None
+687,n/a,34.7785166,135.5071239,None,None,None,None,None,None,None,6,None,None,None
+688,n/a,34.5789364,135.5365276,None,None,None,None,None,None,None,1,None,None,None
+689,n/a,34.6869215,135.8295930,None,None,None,None,None,None,None,7,None,None,None
+690,n/a,34.7785474,135.5174249,None,None,None,None,None,None,None,5,None,None,None
+691,タイムパーキング一ヶ谷町第2,34.7569785,135.3400850,None,None,None,None,None,None,None,5,None,None,None
+692,n/a,34.7562310,135.3625657,None,None,None,None,None,None,None,9,None,None,None
+693,n/a,34.5922950,135.6253624,None,None,None,None,None,None,None,10,None,None,None
+694,One Park 千里山東1丁目,34.7748644,135.5064245,None,None,None,None,None,None,None,0,None,None,None
+695,n/a,34.7730198,135.5063186,None,None,None,None,None,None,None,0,None,None,None
+696,三井のリパーク,34.9799503,135.7704511,None,None,None,None,None,None,None,7,None,None,None
+697,三井のリパーク,34.9773641,135.7706342,None,None,None,None,None,None,None,7,None,None,None
+698,エコロパーク 帝塚山中第１,34.6207201,135.4998189,None,None,None,None,None,None,None,7,None,None,None
+699,n/a,34.6809981,135.5254051,None,None,None,None,None,None,None,6,None,None,None
+700,n/a,34.7047415,135.4965519,None,None,None,None,None,None,None,9,None,None,None
+701,エコロパーク,34.6688302,135.5218908,None,None,None,None,None,None,None,0,None,None,None
+702,n/a,34.6933054,135.6508528,None,None,None,None,None,None,None,1,None,None,None
+703,別館駐車場,34.7422595,135.3589533,None,None,None,None,None,None,None,1,None,None,None
+704,伏見稲荷駅前パーキング,34.9684848,135.7687519,None,None,None,None,None,None,None,0,None,None,None
+705,n/a,34.9070457,135.7197100,None,None,None,None,None,None,None,4,None,None,None
+706,タイムズ南千里,34.7869027,135.5040092,None,None,None,None,None,None,None,4,None,None,None
+707,京阪淀駅東,34.9096081,135.7284510,None,None,None,None,None,None,None,1,None,None,None
+708,タイムズ,34.7449133,135.3552017,None,None,None,None,None,None,None,1,None,None,None
+709,n/a,34.5799749,135.5559434,None,None,None,None,None,None,None,1,None,None,None
+710,n/a,34.7811415,135.6709452,None,None,None,None,None,None,None,9,None,None,None
+711,n/a,34.7421701,135.3552747,None,None,None,None,None,None,None,9,None,None,None
+712,n/a,34.7120242,135.3304488,None,None,None,None,None,None,None,0,None,None,None
+713,n/a,34.7370748,135.3573072,None,None,None,None,None,None,None,0,None,None,None
+714,n/a,34.7046577,135.3751324,None,None,None,None,None,None,None,3,None,None,None
+715,n/a,34.5462266,135.5537260,None,None,None,None,None,None,None,0,None,None,None
+716,n/a,34.5451462,135.5545574,None,None,None,None,None,None,None,0,None,None,None
+717,n/a,34.5445243,135.5552762,None,None,None,None,None,None,None,1,None,None,None
+718,n/a,34.5706860,135.5507125,None,None,None,None,None,None,None,1,None,None,None
+719,n/a,34.5714093,135.5506307,None,None,None,None,None,None,None,0,None,None,None
+720,タイムズ,34.7606911,135.3294092,None,None,None,None,None,None,None,8,None,None,None
+721,n/a,34.7889354,135.5389765,None,None,None,None,None,None,None,1,None,None,None
+722,n/a,34.7418042,135.4438562,None,None,None,None,None,None,None,8,None,None,None
+723,n/a,34.7087138,135.4967545,None,None,None,None,None,None,None,3,None,None,None
+724,n/a,34.7544347,135.3398050,None,None,None,None,None,None,None,6,None,None,None
+725,タイムズ,34.7346854,135.3452285,None,None,None,None,None,None,None,5,None,None,None
+726,n/a,34.7281237,135.3454873,None,None,None,None,None,None,None,8,None,None,None
+727,タイムパーキング,34.7218558,135.3717848,None,None,None,None,None,None,None,3,None,None,None
+728,n/a,34.5536138,135.6080978,None,None,None,None,None,None,None,6,None,None,None
+729,P.ZONE,34.7331434,135.3549443,None,None,None,None,None,None,None,3,None,None,None
+730,タイムズ,35.0080853,135.7592889,None,None,None,None,None,None,None,1,None,None,None
+731,n/a,34.9028520,135.3648126,None,None,None,None,None,None,None,6,None,None,None
+732,n/a,34.8130466,135.4966746,None,None,None,None,None,None,None,2,None,None,None
+733,n/a,34.8144780,135.4970233,None,None,None,None,None,None,None,5,None,None,None
+734,n/a,34.5447430,135.5552213,None,None,None,None,None,None,None,2,None,None,None
+735,n/a,34.6927043,135.2652621,None,None,None,None,None,None,None,2,None,None,None
+736,n/a,34.6834717,135.2763077,None,None,None,None,None,None,None,2,None,None,None
+737,n/a,35.0081334,135.5843608,None,None,None,None,None,None,None,7,None,None,None
+738,屋内パーキング,34.7518630,135.4495622,None,None,None,None,None,None,None,0,None,None,None
+739,タイムズ,34.7349036,135.5621370,None,None,None,None,None,None,None,2,None,None,None
+740,タイムズ,34.7432191,135.5650560,None,None,None,None,None,None,None,1,None,None,None
+741,n/a,34.6860421,135.8324423,None,None,None,None,None,None,None,2,None,None,None
+742,n/a,34.6865202,135.8328527,None,None,None,None,None,None,None,4,None,None,None
+743,n/a,34.6867383,135.8321590,None,None,None,None,None,None,None,9,None,None,None
+744,エコロパーク東園田第２,34.7590811,135.4454322,None,None,None,None,None,None,None,0,None,None,None
+745,リパーク,34.8277670,135.4763981,None,None,None,None,None,None,None,7,None,None,None
+746,リパーク,34.8219272,135.4874633,None,None,None,None,None,None,None,3,None,None,None
+747,n/a,34.8342355,135.4698880,None,None,None,None,None,None,None,2,None,None,None
+748,n/a,34.8380077,135.5055347,None,None,None,None,None,None,None,9,None,None,None
+749,タイムズ,35.0064860,135.7582977,None,None,None,None,None,None,None,9,None,None,None
+750,n/a,34.8091471,135.6290823,None,None,None,None,None,None,None,9,None,None,None
+751,タイムパーキング,34.7602037,135.3576660,None,None,None,None,None,None,None,0,None,None,None
+752,NPC,34.7070796,135.3753943,None,None,None,None,None,None,None,4,None,None,None
+753,n/a,34.7454882,135.4050551,None,None,None,None,None,None,None,9,None,None,None
+754,n/a,34.6825108,135.4901164,None,None,None,None,None,None,None,4,None,None,None
+755,タイムズ,34.7341210,135.3281600,None,None,None,None,None,None,None,3,None,None,None
+756,タイムズ,34.7443172,135.4453406,None,None,None,None,None,None,None,0,None,None,None
+757,n/a,34.7925344,135.4022403,None,None,None,None,None,None,None,6,None,None,None
+758,n/a,34.7925181,135.4024927,None,None,None,None,None,None,None,3,None,None,None
+759,n/a,34.7923823,135.4028631,None,None,None,None,None,None,None,0,None,None,None
+760,D-Parking,34.7909211,135.4051704,None,None,None,None,None,None,None,4,None,None,None
+761,n/a,34.8156886,135.3371961,None,None,None,None,None,None,None,6,None,None,None
+762,リパーク,34.8154645,135.3375478,None,None,None,None,None,None,None,9,None,None,None
+763,リパーク,34.8123155,135.3482922,None,None,None,None,None,None,None,1,None,None,None
+764,n/a,34.7406471,135.4734998,None,None,None,None,None,None,None,8,None,None,None
+765,タイムズ,34.8752322,135.7485353,None,None,None,None,None,None,None,7,None,None,None
+766,リパーク,34.9378939,135.7568985,None,None,None,None,None,None,None,10,None,None,None
+767,n/a,34.7766781,135.5315079,None,None,None,None,None,None,None,6,None,None,None
+768,n/a,35.0184676,135.7672314,None,None,None,None,None,None,None,6,None,None,None
+769,リパーク,35.0163083,135.7632258,None,None,None,None,None,None,None,9,None,None,None
+770,三井のリパーク,34.7346389,135.4832238,None,None,None,None,None,None,None,2,None,None,None
+771,柴田駐車場,34.6814298,135.8272696,None,None,None,None,None,None,None,1,None,None,None
+772,アットパーク,34.7873791,135.3558674,None,None,None,None,None,None,None,2,None,None,None
+773,GSパーク,34.7429636,135.3275962,None,None,None,None,None,None,None,2,None,None,None
+774,n/a,34.8039680,135.3833440,None,None,None,None,None,None,None,0,None,None,None
+775,n/a,34.7829799,135.4229388,None,None,None,None,None,None,None,3,None,None,None
+776,リパーク,34.7308537,135.2996546,None,None,None,None,None,None,None,4,None,None,None
+777,n/a,34.7217461,135.2836624,None,None,None,None,None,None,None,4,None,None,None
+778,n/a,34.7516676,135.5660644,None,None,None,None,None,None,None,9,None,None,None
+779,n/a,34.7903275,135.5429663,None,None,None,None,None,None,None,7,None,None,None
+780,APパーク,34.7105604,135.4974090,None,None,None,None,None,None,None,2,None,None,None
+781,n/a,34.6847309,135.5500280,None,None,None,None,None,None,None,3,None,None,None
+782,南海パーキング 堺東駅,34.5770089,135.4848958,None,None,None,None,None,None,None,2,None,None,None
+783,三井のリパーク,34.9867985,135.7690001,None,None,None,None,None,None,None,0,None,None,None
+784,n/a,34.9472419,135.7634012,None,None,None,None,None,None,None,2,None,None,None
+785,柳ノ下東パーキング,34.9748296,135.7641057,None,None,None,None,None,None,None,5,None,None,None
+786,GSPark,34.9053905,135.7202026,None,None,None,None,None,None,None,8,None,None,None
+787,n/a,34.8635816,135.7784937,None,None,None,None,None,None,None,2,None,None,None
+788,n/a,34.7508988,135.4838960,None,None,None,None,None,None,None,10,None,None,None
+789,n/a,34.5661572,135.5967419,None,None,None,None,None,None,None,2,None,None,None
+790,サンライトパーキング藤井寺,34.5689688,135.5967928,None,None,None,None,None,None,None,6,None,None,None
+791,n/a,34.8346427,135.4990934,None,None,None,None,None,None,None,7,None,None,None
+792,泉涌寺霊園・墓参者専用 第２駐車場,34.9811475,135.7797886,None,None,None,None,None,None,None,5,None,None,None
+793,n/a,35.0255542,135.6738916,None,None,None,None,None,None,None,1,None,None,None
+794,n/a,34.7370379,135.8228856,None,None,None,None,None,None,None,7,None,None,None
+795,n/a,34.8453702,135.6993350,None,None,None,None,None,None,None,9,None,None,None
+796,n/a,34.8393902,135.6985880,None,None,None,None,None,None,None,2,None,None,None
+797,n/a,34.8110588,135.5596175,None,None,None,None,None,None,None,9,None,None,None
+798,n/a,34.7061748,135.4981989,None,None,None,None,None,None,None,0,None,None,None
+799,n/a,34.6811057,135.5664369,None,None,None,None,None,None,None,3,None,None,None
+800,タイムパーキング,34.7469726,135.4406038,None,None,None,None,None,None,None,0,None,None,None
+801,タイムパーキング,34.7453483,135.4367656,None,None,None,None,None,None,None,10,None,None,None
+802,D-パーキング,34.7470707,135.4356544,None,None,None,None,None,None,None,5,None,None,None
+803,タイムパーキング,34.7470762,135.4358751,None,None,None,None,None,None,None,7,None,None,None
+804,エコロパーク,34.7573369,135.4208238,None,None,None,None,None,None,None,5,None,None,None
+805,D-Parking,34.7491902,135.4068918,None,None,None,None,None,None,None,9,None,None,None
+806,n/a,34.7604137,135.4111692,None,None,None,None,None,None,None,0,None,None,None
+807,退蔵院 参拝者専用 第二駐車場,35.0208800,135.7209738,None,None,None,None,None,None,None,3,None,None,None
+808,n/a,34.7320815,135.4286752,None,None,None,None,None,None,None,5,None,None,None
+809,Ecolo Park,34.6847251,135.5146918,None,None,None,None,None,None,None,4,None,None,None
+810,グラン・アーモ パーキング,34.7088626,135.5010232,None,None,None,None,None,None,None,9,None,None,None
+811,n/a,34.7573336,135.4957715,None,None,None,None,None,None,None,0,None,None,None
+812,n/a,34.6209027,135.5275512,None,None,None,None,None,None,None,6,None,None,None
+813,エルパーク,34.6953889,135.4859747,None,None,None,None,None,None,None,10,None,None,None
+814,n/a,34.5933951,135.4879622,None,None,None,None,None,None,None,7,None,None,None
+815,パーラーメトロ,34.6648067,135.5719344,None,None,None,None,None,None,None,0,None,None,None
+816,n/a,34.6584414,135.5508018,None,None,None,None,None,None,None,5,None,None,None
+817,n/a,34.6322661,135.5648601,None,None,None,None,None,None,None,7,None,None,None
+818,n/a,34.6397992,135.5592868,None,None,None,None,None,None,None,3,None,None,None
+819,n/a,34.6420584,135.5550000,None,None,None,None,None,None,None,10,None,None,None
+820,n/a,34.6528634,135.5666019,None,None,None,None,None,None,None,8,None,None,None
+821,S.Y 倉庫モータープール,34.6605174,135.5709926,None,None,None,None,None,None,None,3,None,None,None
+822,三井のリパーク,34.6630699,135.5728998,None,None,None,None,None,None,None,3,None,None,None
+823,三井のリパーク,34.6612068,135.5740369,None,None,None,None,None,None,None,9,None,None,None
+824,門真けいじん会クリニック ユルギ歯科医院専用駐車場,34.7450169,135.5801618,None,None,None,None,None,None,None,2,None,None,None
+825,n/a,34.6509515,135.5536885,None,None,None,None,None,None,None,3,None,None,None
+826,三井のリパーク,34.6478364,135.5651883,None,None,None,None,None,None,None,5,None,None,None
+827,あやめモータープール,34.6732002,135.5381477,None,None,None,None,None,None,None,7,None,None,None
+828,玉造東パーキング,34.6747895,135.5360422,None,None,None,None,None,None,None,6,None,None,None
+829,サクラモータープール,34.6781864,135.5348620,None,None,None,None,None,None,None,1,None,None,None
+830,三井のリパーク,34.6891291,135.5019751,None,None,None,None,None,None,None,4,None,None,None
+831,下澤モータープール,34.6790381,135.5371889,None,None,None,None,None,None,None,0,None,None,None
+832,n/a,34.6341300,135.8069321,None,None,None,None,None,None,None,0,None,None,None
+833,n/a,34.6511294,135.5553030,None,None,None,None,None,None,None,4,None,None,None
+834,布施北モータープール,34.6675734,135.5685257,None,None,None,None,None,None,None,2,None,None,None
+835,n/a,34.7202849,135.3606593,None,None,None,None,None,None,None,6,None,None,None
+836,n/a,34.7820115,135.5228564,None,None,None,None,None,None,None,7,None,None,None
+837,n/a,34.5733343,135.4838564,None,None,None,None,None,None,None,4,None,None,None
+838,n/a,34.5657769,135.5205433,None,None,None,None,None,None,None,1,None,None,None
+839,タイムズ,34.6658040,135.5585257,None,None,None,None,None,None,None,5,None,None,None
+840,n/a,34.7061185,135.7325287,None,None,None,None,None,None,None,2,None,None,None
+841,n/a,34.7058209,135.7328586,None,None,None,None,None,None,None,5,None,None,None
+842,MTEC,34.7397969,135.4962972,None,None,None,None,None,None,None,0,None,None,None
+843,n/a,34.6883177,135.8241837,None,None,None,None,None,None,None,4,None,None,None
+844,タイムパーキング,34.7619837,135.3904203,None,None,None,None,None,None,None,8,None,None,None
+845,大阪市立法円坂駐車場第2号ブロック,34.6813747,135.5179788,None,None,None,None,None,None,None,1,None,None,None
+846,n/a,34.7031414,135.5078416,None,None,None,None,None,None,None,1,None,None,None
+847,n/a,34.9893350,135.7408397,None,None,None,None,None,None,None,2,None,None,None
+848,タイムズ,34.7347380,135.4933510,None,None,None,None,None,None,None,6,None,None,None
+849,タイムズ,34.8285105,135.4119823,None,None,None,None,None,None,None,3,None,None,None
+850,n/a,34.9370961,135.6913421,None,None,None,None,None,None,None,8,None,None,None
+851,n/a,34.6515099,135.5827069,None,None,None,None,None,None,None,5,None,None,None
+852,n/a,34.7419024,135.5216113,None,None,None,None,None,None,None,8,None,None,None
+853,P.ZONE,34.8527417,135.6160058,None,None,None,None,None,None,None,2,None,None,None
+854,n/a,34.8539004,135.6158409,None,None,None,None,None,None,None,2,None,None,None
+855,n/a,34.8531627,135.6157811,None,None,None,None,None,None,None,4,None,None,None
+856,n/a,34.7079806,135.5059176,None,None,None,None,None,None,None,2,None,None,None
+857,n/a,34.7081813,135.5058941,None,None,None,None,None,None,None,6,None,None,None
+858,n/a,34.5856435,135.6303821,None,None,None,None,None,None,None,3,None,None,None
+859,n/a,34.6685920,135.5843420,None,None,None,None,None,None,None,1,None,None,None
+860,パークリノベーション,34.7401668,135.5061551,None,None,None,None,None,None,None,9,None,None,None
+861,ジーエスパーク新大阪駅前,34.7359938,135.4989880,None,None,None,None,None,None,None,6,None,None,None
+862,西淡路町パーキング,34.7404244,135.5101758,None,None,None,None,None,None,None,5,None,None,None
+863,n/a,34.9518358,135.7550384,None,None,None,None,None,None,None,2,None,None,None
+864,n/a,34.7198136,135.4258621,None,None,None,None,None,None,None,8,None,None,None
+865,n/a,34.7965415,135.4929246,None,None,None,None,None,None,None,0,None,None,None
+866,n/a,34.7962811,135.4928535,None,None,None,None,None,None,None,10,None,None,None
+867,タイムズ,34.7344281,135.4935935,None,None,None,None,None,None,None,2,None,None,None
+868,n/a,34.7140396,135.3632382,None,None,None,None,None,None,None,7,None,None,None
+869,三井のリパーク,34.7357693,135.4948086,None,None,None,None,None,None,None,5,None,None,None
+870,n/a,34.7485693,135.6923291,None,None,None,None,None,None,None,3,None,None,None
+871,n/a,35.0203654,135.6812997,None,None,None,None,None,None,None,5,None,None,None
+872,n/a,35.0467056,135.5896648,None,None,None,None,None,None,None,4,None,None,None
+873,n/a,35.0282755,135.6561568,None,None,None,None,None,None,None,6,None,None,None
+874,n/a,34.7648084,135.6191883,None,None,None,None,None,None,None,3,None,None,None
+875,n/a,34.7654115,135.6176867,None,None,None,None,None,None,None,6,None,None,None
+876,n/a,34.7659705,135.6185651,None,None,None,None,None,None,None,3,None,None,None
+877,n/a,34.7645376,135.6170876,None,None,None,None,None,None,None,9,None,None,None
+878,n/a,34.7643096,135.6171058,None,None,None,None,None,None,None,3,None,None,None
+879,タイムズ,34.7121959,135.4696083,None,None,None,None,None,None,None,4,None,None,None
+880,n/a,34.6234988,135.5098203,None,None,None,None,None,None,None,5,None,None,None
+881,タイムパーク,34.7123625,135.5457647,None,None,None,None,None,None,None,10,None,None,None
+882,タイムズ,34.6796162,135.5083159,None,None,None,None,None,None,None,10,None,None,None
+883,441タワーパーキング,34.6769771,135.5090551,None,None,None,None,None,None,None,8,None,None,None
+884,n/a,34.7995277,135.5073207,None,None,None,None,None,None,None,9,None,None,None
+885,n/a,34.7025383,135.5238165,None,None,None,None,None,None,None,3,None,None,None
+886,東洋カーマックス,34.5794625,135.4675084,None,None,None,None,None,None,None,6,None,None,None
+887,n/a,34.7187864,135.3755723,None,None,None,None,None,None,None,7,None,None,None
+888,名鉄協商パーキング,34.5464984,135.5187320,None,None,None,None,None,None,None,0,None,None,None
+889,n/a,34.9299871,135.6956240,None,None,None,None,None,None,None,8,None,None,None
+890,n/a,34.9299280,135.6972742,None,None,None,None,None,None,None,3,None,None,None
+891,大丸モータープール,34.7320453,135.5091798,None,None,None,None,None,None,None,6,None,None,None
+892,タイムズ,34.6977948,135.4997639,None,None,None,None,None,None,None,2,None,None,None
+893,タイムズ,34.7127857,135.5434329,None,None,None,None,None,None,None,8,None,None,None
+894,ジャストインパーク,34.7121915,135.5120130,None,None,None,None,None,None,None,9,None,None,None
+895,n/a,34.6515195,135.5816265,None,None,None,None,None,None,None,8,None,None,None
+896,マクドナルド,34.6392719,135.5178544,None,None,None,None,None,None,None,5,None,None,None
+897,Coin park,34.7228427,135.2910456,None,None,None,None,None,None,None,7,None,None,None
+898,eco cube,34.7268814,135.2903250,None,None,None,None,None,None,None,1,None,None,None
+899,Times parking,34.9968064,135.7589024,None,None,None,None,None,None,None,10,None,None,None
+900,n/a,34.6529911,135.4931384,None,None,None,None,None,None,None,10,None,None,None
+901,n/a,34.7633702,135.4198730,None,None,None,None,None,None,None,8,None,None,None
+902,Example Parking,34.8369879,135.5615425,False,True,True,True,500,30,5,3,None,None,None

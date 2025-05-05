@@ -1,0 +1,103 @@
+<!-- parking_app/templates/upload_success.html -->
+{% extends 'base.html' %}
+
+{% block title %}Parking Lots{% endblock %}
+
+{% block content %}
+<style>
+    body, html {
+        background-image: url("https://i.im.ge/2024/07/11/V6yoic.watercolor-light-steel-blue-wallpaper-image.jpeg");
+        background-size: cover;
+        background-position: center;
+        margin: 0;
+        padding: 0;
+        height: 100%;
+        font-family: Georgia, Serif;
+        background-color: #f5f5f5;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    header {
+        width: 100%;
+        position: absolute;
+        top: 0;
+        z-index: 1;
+    }
+    .container {
+        background-color: white;
+        border: 1px solid #ccc;
+        padding: 35px;
+        box-shadow: 0 0 10px rgba(1, 0, 0, 0.1);
+        width: 350px;
+        text-align: center;
+        margin-top: 100px; /* Add margin to push the form down below the header */
+        z-index: 2;
+        position: relative;
+    }
+    .container h1 {
+        margin-top: 20px;
+        margin-bottom: 20px;
+        font-weight: bold;
+        font-family: Georgia, Serif;
+        font-size: 35px;
+    }
+    .container input[type="text"], 
+    .container input[type="password"] {
+        width: 100%;
+        padding: 10px;
+        margin: 10px 0;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+    }
+    .container button {
+        width: 100%;
+        padding: 10px;
+        background-color: #093;
+        color: white;
+        border: none;
+        border-radius: 5px;
+        font-size: 16px;
+        cursor: pointer;
+    }
+    .container button:hover {
+        background-color: #555;
+    }
+    .container .guest-button {
+        margin-top: 10px; /* Add space between buttons */
+    }
+    .container a {
+        color: #007bff;
+        text-decoration: none;
+    }
+    .container a:hover {
+        text-decoration: underline;
+    }
+    .links {
+        margin-top: 10px;
+        text-align: left;
+    }
+</style>
+
+<!DOCTYPE html>
+<div class="container">
+    <head>
+        <title>Upload Success!</title>
+    </head>
+    <body>
+        <h1>{{ name }}</h1>
+        <p>Location: ( {{ latitude }} , {{ longitude }} )</p>
+        <p>Car: {{ car }}</p>
+        <p>Bicycle: {{ bike }}</p>
+        <p>Motorcycle: {{ motor }}</p>
+        <p>Gentsuki: {{ gentsuki }}</p>
+        <p>Price: {{ price }}</p>
+        <p>Unit of Time: {{ unit_of_time }}</p>
+        <p>Review: {{ review }}</p>
+        <p>Current Free Spot: {{ current_free_spot }}</p>
+        <p>You were awarded {{ points_awarded }} points!</p>
+
+        <a href="{% url 'index' %}"><button>Go to Home</button></a>
+    </body>
+</div>
+{% endblock %}

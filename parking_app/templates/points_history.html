@@ -1,0 +1,73 @@
+<!-- parking_app/templates/parking_app/pseudo_points_history.html -->
+{% extends 'base.html' %}
+
+{% block title %}Points History{% endblock %}
+
+{% block content %}
+
+<style>
+    body, html {
+        background-image: url("https://i.im.ge/2024/07/11/V6yoic.watercolor-light-steel-blue-wallpaper-image.jpeg");
+        background-size: cover;
+        background-position: center;
+        margin: 0;
+        padding: 0;
+        height: 100%;
+        font-family: Georgia, Serif;
+        background-color: #f5f5f5;
+        display: relative;
+        justify-content: center;
+        align-items: center;
+    }
+    header {
+        width: 100%;
+        position: absolute;
+        top: 0;
+        z-index: 1;
+    }
+    .container {
+        background-color: white;
+        border: 1px solid #ccc;
+        padding: 35px;
+        box-shadow: 0 0 10px rgba(1, 0, 0, 0.1);
+        width: 850px;
+        text-align: center;
+        margin-top: 100px; /* Add margin to push the form down below the header */
+        z-index: 2;
+        position: relative;
+        
+    }
+    .container h1 {
+        margin-top: 20px;
+        margin-bottom: 20px;
+        font-weight: bold;
+        font-family: Georgia, Serif;
+        font-size: 35px;
+    }
+    .container h2 {
+        margin-top: 20px;
+        margin-bottom: 20px;
+        font-weight: bold;
+        font-family: Georgia, Serif;
+        font-size: 20px;
+    }
+    .container h3 {
+        margin-top: 20px;
+        margin-bottom: 20px;
+        /* font-weight: bold; */
+        font-family: Georgia, Serif;
+        font-size: 20px;
+    }
+
+</style>
+
+<div class="container">
+    <h1>Points History</h1>
+    <p>This is a static page displaying information about pseudo points history.</p>
+    <ul>
+        <li>2024-06-01: User received 10 points for uploading at Lot A</li>
+        <li>2024-06-15: User received 20 points for answering survey</li>
+        <li>2024-06-20: User lost 5 points for reports</li>
+    </ul>
+</div>
+{% endblock %}

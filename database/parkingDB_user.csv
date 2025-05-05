@@ -1,0 +1,5 @@
+ID, Name, Latitude, Longutude, Car, Bicycle, Motorcycle, Gentsuki, Price, Unit of Time, Review, Current Free Spot, Timestamp, Uploader, Image Path
+1,Test,34.8147112,135.5694385,1,1,1,0,111,123,34,32,2024-07-12 02:47:13,Wonil,./database/images/1.png
+2,Test2,34.8197525,135.5690797,1,0,1,0,123,12,123,11,2024-07-12 02:48:19,Wonil,None
+3,Test3,34.8197525,135.5690797,1,1,1,0,123,12,41,12,2024-07-12 02:48:45,Wonil,./database/images/3.png
+4,Test Parking Lot,34.8369909,135.5615716,0,1,1,1,500,30,5,2,2024-07-15 22:30:34,user0,./database/images/4.png
