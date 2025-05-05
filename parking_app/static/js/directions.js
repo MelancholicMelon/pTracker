@@ -1,6 +1,6 @@
 // static/js/directions.js
 function getDirections(userLat, userLon, destLat, destLon, selectedMode) {
-    const apiKey = '5b3ce3597851110001cf62486fc3524b1f5140e3b57968e8b01679b9';  // Replace with your OpenRouteService API key
+    const apiKey = 'SECRET';  // Replace with your OpenRouteService API key
     const url = `https://api.openrouteservice.org/v2/directions/${selectedMode}?api_key=${apiKey}&start=${userLon},${userLat}&end=${destLon},${destLat}`;
     console.log("Selected option",selectedMode)
     fetch(url)
